@@ -1,0 +1,3273 @@
+[
+  {
+    "id": "ATU",
+    "nome": "Atualidades e Legislação Especial",
+    "cards": [
+      {
+        "id": "esc-ATU-01",
+        "f": "Qual emenda constitucional, promulgada em 16/10/2026, pôs fim à escala 6x1?",
+        "b": "**EC 141/2026**, promulgada pelas Mesas da Câmara e do Senado.\nPegadinha: emenda constitucional não vai à sanção presidencial.",
+        "fonte": "Atualidades jun. a out./2026",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-ATU-02",
+        "f": "Após a EC 141/2026, qual o limite da duração normal do trabalho no art. 7º, XIII, da CF?",
+        "b": "**8 horas diárias e 40 horas semanais** (antes, 44), sem redução salarial.\nPegadinha: a EC proíbe redução proporcional do salário.",
+        "fonte": "CF, art. 7º, XIII (EC 141/2026)",
+        "t": "numero"
+      },
+      {
+        "id": "esc-ATU-03",
+        "f": "Pela EC 141/2026, quantos dias de repouso semanal remunerado o trabalhador passa a ter?",
+        "b": "**2 dias**, um deles preferencialmente aos domingos. Vigência: **2 meses** após a publicação (16/10/2026).",
+        "fonte": "CF, art. 7º, XV (EC 141/2026)",
+        "t": "numero"
+      },
+      {
+        "id": "esc-ATU-04",
+        "f": "Qual quórum o Senado precisou para aprovar a PEC do fim da escala 6x1?",
+        "b": "**Três quintos** (49 senadores), em dois turnos. Aprovada em 14/10/2026 por **75 a 1**.\nPegadinha: não é maioria absoluta (41 votos).",
+        "fonte": "Atualidades jun. a out./2026",
+        "t": "numero"
+      },
+      {
+        "id": "esc-ATU-05",
+        "f": "Quem terminou em 1º lugar no 1º turno presidencial de 04/10/2026?",
+        "b": "**Flávio Bolsonaro (PL)**, com 47,03%; Lula teve 45,16%. O 2º turno é em **25/10/2026**.\nPegadinha: a banca inverte as posições dos dois.",
+        "fonte": "Atualidades jun. a out./2026",
+        "t": "numero"
+      },
+      {
+        "id": "esc-ATU-06",
+        "f": "Em 29/04/2026, o Senado rejeitou qual indicado ao STF, e por qual placar?",
+        "b": "**Jorge Messias**, advogado-geral da União: **42 votos contra e 34 a favor**. Primeira rejeição desde 1894.\nPegadinha: o quórum de aprovação é maioria absoluta (41), não dois terços.",
+        "fonte": "Atualidades abr/2026",
+        "t": "numero"
+      },
+      {
+        "id": "esc-ATU-07",
+        "f": "Qual órgão condenou os mandantes do caso Marielle em 25/02/2026?",
+        "b": "A **Primeira Turma do STF**, relator Alexandre de Moraes.\nPegadinha: o Tribunal do Júri julgou os executores, em 2024.",
+        "fonte": "Atualidades fev/2026",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-ATU-08",
+        "f": "Desde quando e em que regime o acordo Mercosul e União Europeia passou a ser aplicado?",
+        "b": "Desde **01/05/2026**, em **aplicação provisória**, só para os países que ratificaram e notificaram.\nPegadinha: não houve vigência definitiva para todos os membros.",
+        "fonte": "Atualidades mai/2026",
+        "t": "regra"
+      },
+      {
+        "id": "esc-ATU-09",
+        "f": "Que cargo ocupava Ali Khamenei, morto em 28/02/2026 em ataque de EUA e Israel?",
+        "b": "**Líder supremo** do Irã, no poder desde 1989. Sucessor: **Mojtaba Khamenei** (08/03).\nPegadinha: Khamenei não era presidente do Irã.",
+        "fonte": "Atualidades fev. e mar./2026",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-ATU-10",
+        "f": "Em que mês de 2026 o Copom iniciou os cortes da Selic, e para qual taxa?",
+        "b": "Em **março** (18/03): de 15% para **14,75%** ao ano.\nPegadinha: quem decide a Selic é o Copom, não o Conselho Monetário Nacional.",
+        "fonte": "Atualidades mar/2026",
+        "t": "numero"
+      },
+      {
+        "id": "esc-ATU-11",
+        "f": "Quem promulgou a Lei da Dosimetria (Lei 15.402/2026) em 08/05/2026?",
+        "b": "**Davi Alcolumbre**, presidente do Senado, porque Lula não promulgou em 48 horas (CF, art. 66, § 7º).\nPegadinha: a Lei 15.404/2026 é a Lei do Chocolate.",
+        "fonte": "Atualidades mai/2026",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-ATU-12",
+        "f": "Quem assumiu a presidência do TSE em 12/05/2026?",
+        "b": "**Nunes Marques**, sucedendo Cármen Lúcia. O vice é **André Mendonça**.\nPegadinha: presidente e vice do TSE saem do STF, não do STJ.",
+        "fonte": "Atualidades mai/2026",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-ATU-13",
+        "f": "Em qual categoria Wagner Moura venceu o Globo de Ouro em 11/01/2026?",
+        "b": "**Melhor ator em filme de drama**, por O Agente Secreto, de Kleber Mendonça Filho.\nPegadinha: não foi na categoria comédia ou musical.",
+        "fonte": "Atualidades jan/2026",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-ATU-14",
+        "f": "A partir de 01/01/2026, até que renda vale a isenção do Imposto de Renda (Lei 15.270/2025)?",
+        "b": "Até **R$ 5 mil**. Na mesma data, o salário mínimo passou a **R$ 1.621**.\nPegadinha: a isenção não começa só em 2027.",
+        "fonte": "Atualidades jan/2026",
+        "t": "numero"
+      },
+      {
+        "id": "esc-ATU-15",
+        "f": "Qual seleção venceu a Copa do Mundo de 2026, e contra quem foi a final?",
+        "b": "A **Espanha** (bicampeã), contra a **Argentina**, na prorrogação, em 19/07/2026.",
+        "fonte": "Atualidades jun. a out./2026",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-ATU-16",
+        "f": "Pelo Estatuto PcD, o impedimento que caracteriza a pessoa com deficiência deve ser de que duração?",
+        "b": "Impedimento de **longo prazo**, de natureza física, mental, intelectual ou sensorial.\nPegadinha: a banca troca por 'permanente' ou 'definitivo'.",
+        "fonte": "Lei 13.146/2015, art. 2º",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-ATU-17",
+        "f": "Como será feita a avaliação da deficiência, quando necessária, e por qual equipe?",
+        "b": "Avaliação **biopsicossocial**, por equipe **multiprofissional e interdisciplinar**.\nPegadinha: não é exclusivamente médica nem feita por perito único.",
+        "fonte": "Lei 13.146/2015, art. 2º, § 1º",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-ATU-18",
+        "f": "O uso do cordão de girassóis (deficiências ocultas) é obrigatório? Dispensa o documento comprobatório?",
+        "b": "Uso **opcional**, e sua ausência não prejudica direitos. **Não dispensa** o documento comprobatório, se solicitado.",
+        "fonte": "Lei 13.146/2015, art. 2º-A, §§ 1º e 2º",
+        "t": "regra"
+      },
+      {
+        "id": "esc-ATU-19",
+        "f": "Quais atividades exerce o profissional de apoio escolar?",
+        "b": "**Alimentação, higiene e locomoção** do estudante com deficiência, em todos os níveis e modalidades, em instituições públicas e privadas.\nPegadinha: a banca restringe a escolas públicas ou ao ensino fundamental.",
+        "fonte": "Lei 13.146/2015, art. 3º, XIII",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-ATU-20",
+        "f": "O atendente pessoal precisa ser remunerado? Pode ser alguém da família?",
+        "b": "Pode ser **membro ou não da família**, **com ou sem remuneração**. Presta cuidados básicos e essenciais nas atividades diárias.",
+        "fonte": "Lei 13.146/2015, art. 3º, XII",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-ATU-21",
+        "f": "Para ser pessoa com mobilidade reduzida, a dificuldade de movimentação precisa ser permanente?",
+        "b": "**Não.** Pode ser **permanente ou temporária**. Inclui idoso, gestante, lactante, pessoa com criança de colo e obeso.\nPegadinha: mobilidade reduzida não se confunde com deficiência.",
+        "fonte": "Lei 13.146/2015, art. 3º, IX",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-ATU-22",
+        "f": "A pessoa com deficiência é obrigada a usufruir de benefícios de ação afirmativa?",
+        "b": "**Não está obrigada** à fruição de benefícios decorrentes de ação afirmativa.",
+        "fonte": "Lei 13.146/2015, art. 4º, § 2º",
+        "t": "regra"
+      },
+      {
+        "id": "esc-ATU-23",
+        "f": "A recusa de adaptações razoáveis configura discriminação em razão da deficiência?",
+        "b": "**Sim**, por previsão expressa. Discriminação é distinção, restrição ou exclusão **por ação ou omissão**.\nPegadinha: não se exige intenção: basta o efeito de prejudicar.",
+        "fonte": "Lei 13.146/2015, art. 4º, § 1º",
+        "t": "regra"
+      },
+      {
+        "id": "esc-ATU-24",
+        "f": "A deficiência afeta a capacidade civil para casar, constituir união estável ou adotar?",
+        "b": "**Não afeta a plena capacidade civil**, inclusive para casar, constituir união estável e adotar, como adotante ou adotando.",
+        "fonte": "Lei 13.146/2015, art. 6º, I e VI",
+        "t": "regra"
+      },
+      {
+        "id": "esc-ATU-25",
+        "f": "Quanto à fertilidade, o que o Estatuto PcD veda expressamente?",
+        "b": "A **esterilização compulsória**. A pessoa com deficiência tem direito de conservar sua fertilidade.",
+        "fonte": "Lei 13.146/2015, art. 6º, IV",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-ATU-26",
+        "f": "Juiz ou tribunal que toma conhecimento de violação ao Estatuto PcD deve remeter peças a quem?",
+        "b": "Ao **Ministério Público**, para as providências cabíveis. Comunicar violação é dever de **todos**.",
+        "fonte": "Lei 13.146/2015, art. 7º, parágrafo único",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-ATU-27",
+        "f": "Quais direitos do atendimento prioritário NÃO se estendem ao acompanhante ou ao atendente pessoal?",
+        "b": "**Restituição de imposto de renda** (VI) e **tramitação processual prioritária** (VII).",
+        "fonte": "Lei 13.146/2015, art. 9º, § 1º",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-ATU-28",
+        "f": "Em que casos a pessoa com deficiência pode ser atendida sem consentimento prévio, livre e esclarecido?",
+        "b": "**Somente** em casos de **risco de morte e de emergência em saúde**, resguardado seu superior interesse.",
+        "fonte": "Lei 13.146/2015, art. 13",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-ATU-29",
+        "f": "Na seleção ou no emprego da pessoa com deficiência, o empregador pode exigir aptidão plena?",
+        "b": "**Não.** É vedada a exigência de **aptidão plena** e qualquer discriminação, inclusive nos exames admissional e periódico.",
+        "fonte": "Lei 13.146/2015, art. 34, § 3º",
+        "t": "regra"
+      },
+      {
+        "id": "esc-ATU-30",
+        "f": "Qual modo de inclusão da pessoa com deficiência no trabalho é previsto no art. 37 do Estatuto?",
+        "b": "A **colocação competitiva**, em igualdade de oportunidades, que pode ocorrer por meio de **trabalho com apoio**.",
+        "fonte": "Lei 13.146/2015, art. 37",
+        "t": "palavra-chave"
+      }
+    ]
+  },
+  {
+    "id": "DA",
+    "nome": "Direito Administrativo",
+    "cards": [
+      {
+        "id": "esc-DA-01",
+        "f": "Estatuto SP: em quantos dias deve ocorrer a posse, e contados de quando?",
+        "b": "**30 dias** da **publicação do ato de provimento** no órgão oficial, prorrogáveis por mais 30 a requerimento do interessado.",
+        "fonte": "Lei 10.261/68, art. 52",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DA-02",
+        "f": "Estatuto SP: em quantos dias o funcionário deve entrar em exercício após a posse?",
+        "b": "**30 dias** contados da **posse** (na remoção, da publicação do ato), prorrogáveis por 30 dias.",
+        "fonte": "Lei 10.261/68, art. 60",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DA-03",
+        "f": "O que acontece com o funcionário que não entra em exercício no prazo legal?",
+        "b": "É **exonerado** (art. 60, § 4º).\nPegadinha: quem não toma posse no prazo tem o ato de provimento tornado sem efeito (art. 52, § 3º).",
+        "fonte": "Lei 10.261/68, art. 60, § 4º",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DA-04",
+        "f": "Reintegração (Estatuto SP): decorre de qual decisão e o que garante?",
+        "b": "De **decisão judicial passada em julgado**, com **ressarcimento dos prejuízos** resultantes do afastamento.",
+        "fonte": "Lei 10.261/68, art. 30",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-DA-05",
+        "f": "Na reintegração, se o cargo estiver preenchido, o que ocorre com o ocupante?",
+        "b": "É **exonerado** ou, se ocupava outro cargo, **reconduzido** a ele, **sem direito a indenização**.",
+        "fonte": "Lei 10.261/68, art. 31, § 1º",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DA-06",
+        "f": "Demitido a bem do serviço público: após quanto tempo pode ser readmitido?",
+        "b": "Não antes de **5 anos** do ato demissório, e sempre após reexame do processo administrativo.",
+        "fonte": "Lei 10.261/68, art. 39, § 2º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DA-07",
+        "f": "Falecimento de avô, neto, sogro, padrasto ou madrasta: quantos dias contam como efetivo exercício?",
+        "b": "Até **2 dias**.\nPegadinha: 8 dias valem para casamento e para falecimento de cônjuge, filhos, pais e irmãos.",
+        "fonte": "Lei 10.261/68, art. 78, IV",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DA-08",
+        "f": "Acumulação ilegal sem boa-fé: além da demissão, por quanto tempo o funcionário fica inabilitado?",
+        "b": "Por **5 anos** para cargo ou função pública. Provada a boa-fé, mantém o cargo exercido há mais tempo.",
+        "fonte": "Lei 10.261/68, art. 174",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DA-09",
+        "f": "Qual o prazo para o servidor pedir reconsideração ou recorrer de decisões (art. 240)?",
+        "b": "**30 dias**, salvo previsão legal específica.",
+        "fonte": "Lei 10.261/68, art. 240",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DA-10",
+        "f": "O funcionário pode atuar como procurador de partes perante repartição pública?",
+        "b": "Não, **exceto** em interesse de **cônjuge ou parente até segundo grau**.",
+        "fonte": "Lei 10.261/68, art. 243, IX",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-DA-11",
+        "f": "Qual o limite máximo da pena de suspensão no Estatuto SP?",
+        "b": "**90 dias**, aplicada em caso de falta grave ou de reincidência.\nPegadinha: trocar por 30 ou 60 dias.",
+        "fonte": "Lei 10.261/68, art. 254",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DA-12",
+        "f": "Suspensão convertida em multa: qual a base de cálculo e o que ocorre com o funcionário?",
+        "b": "**50% por dia** de vencimento ou remuneração, e o funcionário fica **obrigado a permanecer em serviço**.",
+        "fonte": "Lei 10.261/68, art. 254, § 2º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DA-13",
+        "f": "Quando se configura a inassiduidade (Estatuto SP)?",
+        "b": "Ausência injustificada por **mais de 15 dias consecutivos** ou **mais de 20 dias úteis intercalados** durante 1 ano.",
+        "fonte": "Lei 10.261/68, art. 256, § 1º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DA-14",
+        "f": "Praticar ato definido em lei como improbidade gera demissão simples ou a bem do serviço público?",
+        "b": "**Demissão a bem do serviço público** (art. 257, XIII).\nPegadinha: inassiduidade e ineficiência geram demissão simples (art. 256).",
+        "fonte": "Lei 10.261/68, art. 257, XIII",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DA-15",
+        "f": "Até qual pena podem aplicar os Diretores de Departamento e Divisão?",
+        "b": "Até **suspensão limitada a 30 dias**.\nPegadinha: Coordenadores vão até suspensão de 60 dias; Chefes de Gabinete, até suspensão.",
+        "fonte": "Lei 10.261/68, art. 260, V",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-DA-16",
+        "f": "Prescrição disciplinar: prazo para faltas sujeitas a repreensão, suspensão ou multa?",
+        "b": "**2 anos**. Demissão, demissão a bem do serviço público e cassação: **5 anos**.\nPegadinha: inverter os prazos de 2 e 5 anos.",
+        "fonte": "Lei 10.261/68, art. 261, I e II",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DA-17",
+        "f": "O que interrompe a prescrição disciplinar no Estatuto SP?",
+        "b": "A **portaria que instaura sindicância** e a **que instaura processo administrativo**. A prescrição corre do dia em que a falta foi cometida.",
+        "fonte": "Lei 10.261/68, art. 261, §§ 1º e 2º",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DA-18",
+        "f": "Afastamento preventivo do servidor acusado: qual o prazo máximo?",
+        "b": "Até **180 dias**, prorrogáveis **uma única vez** por igual período, **sem prejuízo de vencimentos**.",
+        "fonte": "Lei 10.261/68, art. 266, I",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DA-19",
+        "f": "Falta que pode gerar repreensão, suspensão ou multa: apura-se por sindicância ou processo administrativo?",
+        "b": "Por **sindicância**. O processo administrativo é **obrigatório** para demissão, demissão a bem do serviço público e cassação.",
+        "fonte": "Lei 10.261/68, arts. 269 e 270",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DA-20",
+        "f": "Em quantos dias a sindicância deve estar concluída no Estatuto SP?",
+        "b": "**60 dias**.\nPegadinha: 30 dias é o prazo da apuração preliminar, não da sindicância.",
+        "fonte": "Lei 10.261/68, art. 273, II",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DA-21",
+        "f": "No processo administrativo, quantas testemunhas o presidente e cada acusado podem arrolar?",
+        "b": "Até **5** (art. 283, § 1º).\nPegadinha: na sindicância o limite é **3** (art. 273, I).",
+        "fonte": "Lei 10.261/68, art. 283, § 1º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DA-22",
+        "f": "Processo administrativo: prazo para instauração por portaria e para conclusão?",
+        "b": "Instauração em **8 dias** improrrogáveis do recebimento da determinação; conclusão em **90 dias** da citação do acusado.",
+        "fonte": "Lei 10.261/68, art. 277",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DA-23",
+        "f": "Os recursos contra penalidade no Estatuto SP têm efeito suspensivo?",
+        "b": "**Não**. Se providos, os efeitos **retroagem à data do ato punitivo**. O recurso cabe uma única vez, em 30 dias.",
+        "fonte": "Lei 10.261/68, arts. 312 e 314",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DA-24",
+        "f": "Na revisão de punição disciplinar, a pena pode ser agravada?",
+        "b": "**Não**. A revisão cabe **a qualquer tempo**, mas a pena imposta não poderá ser agravada.\nPegadinha: simples alegação de injustiça não fundamenta o pedido.",
+        "fonte": "Lei 10.261/68, arts. 315 e 316",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DA-25",
+        "f": "Demissão e demissão a bem do serviço público: por quanto tempo impedem nova investidura?",
+        "b": "**5 anos** (demissão) e **10 anos** (demissão a bem do serviço público).",
+        "fonte": "Lei 10.261/68, art. 307, parágrafo único",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DA-26",
+        "f": "Ato culposo ainda configura improbidade administrativa?",
+        "b": "**Não**. Só **condutas dolosas** dos arts. 9º, 10 e 11. Dolo é vontade livre e consciente de alcançar o resultado ilícito; não basta a voluntariedade.",
+        "fonte": "Lei 8.429/92, art. 1º, §§ 1º e 2º",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DA-27",
+        "f": "LIA: limite da suspensão dos direitos políticos no enriquecimento ilícito e na lesão ao erário?",
+        "b": "Até **14 anos** (art. 9º) e até **12 anos** (art. 10).\nPegadinha: para o art. 11 (princípios) não há suspensão dos direitos políticos.",
+        "fonte": "Lei 8.429/92, art. 12, I a III",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DA-28",
+        "f": "LIA, art. 11 (princípios): qual o teto da multa civil e da proibição de contratar?",
+        "b": "Multa de até **24 vezes a remuneração** do agente e proibição de contratar por até **4 anos**.",
+        "fonte": "Lei 8.429/92, art. 12, III",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DA-29",
+        "f": "Qual o prazo de prescrição da ação de improbidade e de quando ele corre?",
+        "b": "**8 anos**, da **ocorrência do fato** ou, nas infrações permanentes, do dia em que **cessou a permanência**.",
+        "fonte": "Lei 8.429/92, art. 23",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DA-30",
+        "f": "LIA: quando se efetivam a perda da função pública e a suspensão dos direitos políticos?",
+        "b": "Só com o **trânsito em julgado** da sentença condenatória. Antes disso cabe afastamento de até 90 dias, prorrogável uma vez, sem prejuízo da remuneração.",
+        "fonte": "Lei 8.429/92, art. 20",
+        "t": "regra"
+      }
+    ]
+  },
+  {
+    "id": "DC",
+    "nome": "Direito Constitucional",
+    "cards": [
+      {
+        "id": "esc-DC-01",
+        "f": "Art. 5º, XI: por determinação judicial, em que horário se pode entrar na casa sem consentimento do morador?",
+        "b": "Somente **durante o dia**. Flagrante delito, desastre ou socorro autorizam a entrada a qualquer hora.\nPegadinha: estender a ordem judicial para \"a qualquer hora\" ou \"durante a noite\".",
+        "fonte": "CF, art. 5º, XI",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-DC-02",
+        "f": "Art. 5º, XII: a quebra de sigilo por ordem judicial é admitida para quais comunicações?",
+        "b": "Só no **último caso**: as **comunicações telefônicas**, para investigação criminal ou instrução processual penal.\nPegadinha: incluir investigação civil ou administrativa.",
+        "fonte": "CF, art. 5º, XII",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-DC-03",
+        "f": "Reunião pacífica, sem armas, em local aberto ao público: a CF exige autorização ou o quê?",
+        "b": "Independe de autorização. Exige-se apenas **prévio aviso** à autoridade competente.\nPegadinha: trocar \"prévio aviso\" por \"autorização\".",
+        "fonte": "CF, art. 5º, XVI",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-DC-04",
+        "f": "Associações: qual medida exige trânsito em julgado, a dissolução compulsória ou a suspensão das atividades?",
+        "b": "A **dissolução compulsória**. As duas dependem de decisão judicial, mas só a dissolução exige o trânsito em julgado.",
+        "fonte": "CF, art. 5º, XIX",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DC-05",
+        "f": "Na requisição por iminente perigo público (art. 5º, XXV), como é a indenização ao proprietário?",
+        "b": "**Ulterior**, e somente **se houver dano**.\nPegadinha: dizer que a indenização é prévia, como na desapropriação.",
+        "fonte": "CF, art. 5º, XXV",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-DC-06",
+        "f": "Direito de petição e obtenção de certidões em repartições públicas dependem de pagamento de taxa?",
+        "b": "Não. São assegurados a todos **independentemente do pagamento de taxas**.",
+        "fonte": "CF, art. 5º, XXXIV",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DC-07",
+        "f": "No tribunal do júri, a CF assegura \"ampla defesa\" ou \"plenitude de defesa\"?",
+        "b": "**Plenitude de defesa**, ao lado do sigilo das votações, da soberania dos veredictos e da competência para crimes dolosos contra a vida.",
+        "fonte": "CF, art. 5º, XXXVIII",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-DC-08",
+        "f": "Quais crimes a CF declara, ao mesmo tempo, inafiançáveis e imprescritíveis?",
+        "b": "**Racismo** (XLII) e **ação de grupos armados**, civis ou militares, contra a ordem constitucional e o Estado Democrático (XLIV).",
+        "fonte": "CF, art. 5º, XLII e XLIV",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DC-09",
+        "f": "Tortura, tráfico, terrorismo e crimes hediondos são imprescritíveis?",
+        "b": "Não. São **inafiançáveis e insuscetíveis de graça ou anistia**.\nPegadinha: chamá-los de imprescritíveis, característica só do racismo e da ação de grupos armados.",
+        "fonte": "CF, art. 5º, XLIII",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DC-10",
+        "f": "A CF admite pena de morte em alguma hipótese?",
+        "b": "Sim, só em caso de **guerra declarada**, nos termos do art. 84, XIX.",
+        "fonte": "CF, art. 5º, XLVII, a",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-DC-11",
+        "f": "Em que casos o brasileiro naturalizado pode ser extraditado?",
+        "b": "**Crime comum praticado antes da naturalização** ou **comprovado envolvimento em tráfico** de entorpecentes, na forma da lei. O nato nunca.",
+        "fonte": "CF, art. 5º, LI",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-DC-12",
+        "f": "Associação legalmente constituída precisa funcionar há quanto tempo para impetrar mandado de segurança coletivo?",
+        "b": "Há pelo menos **um ano**, em defesa dos interesses de seus membros ou associados.\nPegadinha: trocar por dois anos ou dispensar o prazo.",
+        "fonte": "CF, art. 5º, LXX",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DC-13",
+        "f": "Quem tem legitimidade para propor ação popular?",
+        "b": "**Qualquer cidadão**. Salvo comprovada má-fé, o autor fica isento de custas judiciais e do ônus da sucumbência.",
+        "fonte": "CF, art. 5º, LXXIII",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-DC-14",
+        "f": "Quais ações constitucionais o art. 5º, LXXVII, declara gratuitas?",
+        "b": "**Habeas corpus e habeas data** (e, na forma da lei, os atos necessários ao exercício da cidadania).\nPegadinha: incluir mandado de segurança.",
+        "fonte": "CF, art. 5º, LXXVII",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-DC-15",
+        "f": "Tratado de direitos humanos: qual rito garante equivalência a emenda constitucional?",
+        "b": "Aprovação em cada Casa do Congresso Nacional, em **dois turnos**, por **três quintos** dos votos dos respectivos membros.",
+        "fonte": "CF, art. 5º, § 3º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DC-16",
+        "f": "Após a EC 141/2026, qual a duração máxima do trabalho normal no art. 7º, XIII?",
+        "b": "**8 horas diárias e 40 horas semanais**, facultada a compensação e a redução por acordo ou convenção coletiva.\nPegadinha: o texto antigo previa 44 horas semanais.",
+        "fonte": "CF, art. 7º, XIII (EC 141/2026)",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DC-17",
+        "f": "Na nova redação do art. 7º, XV (EC 141/2026), como fica o repouso semanal remunerado?",
+        "b": "**2 dias** de repouso por semana, **um** deles preferencialmente aos domingos. Vigência: 2 meses após a publicação (16/10/2026).",
+        "fonte": "CF, art. 7º, XV (EC 141/2026)",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DC-18",
+        "f": "Qual a jornada para o trabalho em turnos ininterruptos de revezamento?",
+        "b": "**Seis horas**, salvo negociação coletiva.",
+        "fonte": "CF, art. 7º, XIV",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DC-19",
+        "f": "Qual o prazo prescricional para créditos trabalhistas?",
+        "b": "**Cinco anos**, até o limite de **dois anos** após a extinção do contrato de trabalho, para urbanos e rurais.",
+        "fonte": "CF, art. 7º, XXIX",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DC-20",
+        "f": "A partir de que idade é permitido qualquer trabalho, e qual a exceção?",
+        "b": "A partir dos **dezesseis anos**, salvo aprendiz a partir dos **quatorze**. Noturno, perigoso ou insalubre só a partir dos dezoito.",
+        "fonte": "CF, art. 7º, XXXIII",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DC-21",
+        "f": "Até quando é vedada a dispensa do empregado sindicalizado eleito, ainda que suplente?",
+        "b": "Desde o **registro da candidatura** até **um ano após o final do mandato**, salvo falta grave nos termos da lei.",
+        "fonte": "CF, art. 8º, VIII",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DC-22",
+        "f": "Naturalização de originário de país de língua portuguesa: que requisitos a CF exige?",
+        "b": "Apenas **residência por um ano ininterrupto** e **idoneidade moral**.",
+        "fonte": "CF, art. 12, II, a",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DC-23",
+        "f": "Naturalização extraordinária: quanto tempo de residência a CF exige do estrangeiro?",
+        "b": "Mais de **quinze anos ininterruptos**, sem condenação penal, desde que requeira a nacionalidade.\nPegadinha: trocar por dez anos ou dispensar o requerimento.",
+        "fonte": "CF, art. 12, II, b",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DC-24",
+        "f": "Qual Ministro de Estado ocupa cargo privativo de brasileiro nato?",
+        "b": "Somente o **Ministro de Estado da Defesa** (art. 12, § 3º, VII).\nPegadinha: incluir Senador ou Deputado; privativos são só os Presidentes da Câmara e do Senado.",
+        "fonte": "CF, art. 12, § 3º",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DC-25",
+        "f": "Qual o prazo de validade do concurso público?",
+        "b": "**Até dois anos**, prorrogável **uma vez**, por igual período.",
+        "fonte": "CF, art. 37, III",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DC-26",
+        "f": "Funções de confiança podem ser exercidas por quem não ocupa cargo efetivo?",
+        "b": "Não. São exercidas **exclusivamente por servidores ocupantes de cargo efetivo**. Cargos em comissão: percentuais mínimos para servidores de carreira.",
+        "fonte": "CF, art. 37, V",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DC-27",
+        "f": "Após a EC 138/2025, o cargo de professor pode ser acumulado com qual outro (art. 37, XVI, b)?",
+        "b": "Com **outro de qualquer natureza**, havendo compatibilidade de horários.\nPegadinha: o texto anterior exigia outro cargo técnico ou científico.",
+        "fonte": "CF, art. 37, XVI, b (EC 138/2025)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DC-28",
+        "f": "Servidor eleito vereador, com compatibilidade de horários: o que acontece com a remuneração?",
+        "b": "Recebe as vantagens do cargo **sem prejuízo da remuneração do cargo eletivo**. Sem compatibilidade, afasta-se e pode optar pela remuneração.",
+        "fonte": "CF, art. 38, III",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DC-29",
+        "f": "Estabilidade do servidor: qual o prazo e qual condição é obrigatória para adquiri-la?",
+        "b": "**Três anos de efetivo exercício** e **avaliação especial de desempenho** por comissão instituída para essa finalidade.",
+        "fonte": "CF, art. 41, caput e § 4º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DC-30",
+        "f": "O CNJ tem sede na Capital Federal e jurisdição em todo o território nacional?",
+        "b": "Tem **sede na Capital Federal** (art. 92, § 1º), mas a **jurisdição nacional** do § 2º é só do STF e dos Tribunais Superiores.",
+        "fonte": "CF, art. 92, §§ 1º e 2º",
+        "t": "pegadinha"
+      }
+    ]
+  },
+  {
+    "id": "DP",
+    "nome": "Direito Penal",
+    "cards": [
+      {
+        "id": "esc-DP-01",
+        "f": "Qual é a pena do uso de documento falso (CP, art. 304)?",
+        "b": "A **cominada à falsificação ou à alteração** do papel usado.\nPegadinha: a banca inventa uma pena própria e autônoma para o uso.",
+        "fonte": "CP, art. 304",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-DP-02",
+        "f": "Quem falsifica um documento e depois o usa responde por quais crimes?",
+        "b": "Só pela **falsificação**: o uso é post factum impunível. Quem apenas usa, sem ter falsificado, responde pelo art. 304.",
+        "fonte": "Resumo m9 (CP, arts. 297 e 304)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DP-03",
+        "f": "Testamento particular, para efeitos penais, equipara-se a documento público ou particular?",
+        "b": "A **documento público** (art. 297, § 2º), ao lado de livros mercantis, ações de sociedade comercial e título ao portador.\nPegadinha: apesar do nome, não é documento particular.",
+        "fonte": "CP, art. 297, § 2º",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DP-04",
+        "f": "Na falsidade ideológica (art. 299), em quais casos a pena aumenta de sexta parte?",
+        "b": "Funcionário público que se **prevalece do cargo** ou falsificação de **assentamento de registro civil**.",
+        "fonte": "CP, art. 299, parágrafo único",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-DP-05",
+        "f": "Nos crimes de falsificação, quanto aumenta a pena do funcionário que se prevalece do cargo (arts. 295, 296 e 297)?",
+        "b": "Aumenta de **sexta parte (1/6)**.\nPegadinha: na fraude em certame (art. 311-A, § 3º) o aumento é de 1/3.",
+        "fonte": "CP, arts. 295, 296, § 2º, e 297, § 1º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DP-06",
+        "f": "Qual é a pena da falsa identidade (art. 307)?",
+        "b": "**Detenção, de 3 meses a 1 ano, ou multa**, se o fato não constitui elemento de crime mais grave.\nPegadinha: o crime é expressamente subsidiário.",
+        "fonte": "CP, art. 307",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DP-07",
+        "f": "Quem cede o próprio documento de identidade para outra pessoa usar comete crime?",
+        "b": "Sim: o art. 308 pune quem **cede a outrem** documento de identidade, próprio ou de terceiro, com a mesma pena de quem usa o alheio como próprio.",
+        "fonte": "CP, art. 308",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DP-08",
+        "f": "Fraude em certame de interesse público (art. 311-A) cometida por funcionário público: qual o aumento?",
+        "b": "Aumenta-se a pena de **1/3 (um terço)**.\nPegadinha: não é sexta parte nem pena em dobro.",
+        "fonte": "CP, art. 311-A, § 3º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DP-09",
+        "f": "No peculato culposo, qual o efeito da reparação do dano ANTES da sentença irrecorrível?",
+        "b": "**Extingue a punibilidade**.\nPegadinha: o benefício vale só para o peculato culposo, não para o doloso.",
+        "fonte": "CP, art. 312, § 3º",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DP-10",
+        "f": "No peculato culposo, qual o efeito da reparação do dano DEPOIS da sentença irrecorrível?",
+        "b": "**Reduz de metade** a pena imposta.",
+        "fonte": "CP, art. 312, § 3º",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DP-11",
+        "f": "Funcionário que NÃO tem a posse do bem, mas o subtrai valendo-se da facilidade do cargo, comete qual crime?",
+        "b": "**Peculato-furto**: mesma pena do peculato (art. 312, § 1º), pois age **embora não tendo a posse**.",
+        "fonte": "CP, art. 312, § 1º",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-DP-12",
+        "f": "Qual é o verbo nuclear da concussão (art. 316)?",
+        "b": "**Exigir** vantagem indevida, ainda que fora da função ou antes de assumi-la, mas em razão dela.\nPegadinha: solicitar ou receber é corrupção passiva (art. 317).",
+        "fonte": "CP, art. 316",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-DP-13",
+        "f": "Funcionário que exige tributo que sabe ou deveria saber indevido comete qual crime?",
+        "b": "**Excesso de exação** (art. 316, § 1º): reclusão, de 3 a 8 anos, e multa. Também se cobra tributo devido por meio vexatório ou gravoso.",
+        "fonte": "CP, art. 316, § 1º",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-DP-14",
+        "f": "Qual a finalidade específica que caracteriza a prevaricação (art. 319)?",
+        "b": "Agir **para satisfazer interesse ou sentimento pessoal**.\nPegadinha: ceder a pedido ou influência de outrem é corrupção passiva privilegiada (art. 317, § 2º).",
+        "fonte": "CP, art. 319",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-DP-15",
+        "f": "Superior que, por indulgência, deixa de responsabilizar subordinado infrator comete qual crime?",
+        "b": "**Condescendência criminosa** (art. 320): detenção, de 15 dias a 1 mês, ou multa.",
+        "fonte": "CP, art. 320",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-DP-16",
+        "f": "Quem pode ser sujeito ativo da inserção de dados falsos em sistema de informações (art. 313-A)?",
+        "b": "O **funcionário autorizado**. Pena: reclusão, de 2 a 12 anos, e multa.\nPegadinha: alterar sistema sem autorização é o art. 313-B, com pena de detenção.",
+        "fonte": "CP, art. 313-A",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-DP-17",
+        "f": "Para efeitos penais, é funcionário público quem exerce função pública temporária e sem remuneração?",
+        "b": "Sim: considera-se funcionário quem exerce cargo, emprego ou função pública, **embora transitoriamente ou sem remuneração**.",
+        "fonte": "CP, art. 327, caput",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DP-18",
+        "f": "Ocupante de cargo em comissão ou função de direção que comete crime funcional: qual o aumento?",
+        "b": "Aumento da **terça parte** (art. 327, § 2º).\nPegadinha: a banca troca por metade.",
+        "fonte": "CP, art. 327, § 2º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DP-19",
+        "f": "O que diferencia a resistência (art. 329) da desobediência (art. 330)?",
+        "b": "Resistência exige oposição a ato legal mediante **violência ou ameaça** ao funcionário ou a quem o auxilia. Sem violência ou ameaça, é desobediência.",
+        "fonte": "CP, arts. 329 e 330",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DP-20",
+        "f": "Quais são os verbos da corrupção ativa (art. 333)?",
+        "b": "**Oferecer ou prometer** vantagem indevida a funcionário público.\nPegadinha: solicitar é verbo da corrupção passiva (art. 317).",
+        "fonte": "CP, art. 333",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-DP-21",
+        "f": "Tráfico de influência: quanto aumenta a pena se o agente insinua que a vantagem também é do funcionário?",
+        "b": "Aumenta da **metade** (art. 332, parágrafo único).\nPegadinha: na exploração de prestígio (art. 357) o aumento é de um terço.",
+        "fonte": "CP, art. 332, parágrafo único",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DP-22",
+        "f": "Na usurpação de função pública (art. 328), o que muda se o agente aufere vantagem?",
+        "b": "A pena passa a ser **reclusão, de 2 a 5 anos, e multa**.\nPegadinha: a banca mantém detenção.",
+        "fonte": "CP, art. 328, parágrafo único",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DP-23",
+        "f": "Rasgar edital afixado por ordem de funcionário público configura qual crime?",
+        "b": "**Inutilização de edital ou de sinal** (art. 336): detenção, de 1 mês a 1 ano, ou multa.\nPegadinha: edital afixado por particular não se encaixa.",
+        "fonte": "CP, art. 336",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-DP-24",
+        "f": "Dar causa a inquérito contra alguém, imputando-lhe crime de que o sabe inocente: qual crime?",
+        "b": "**Denunciação caluniosa** (art. 339).\nPegadinha: comunicar crime que não ocorreu, sem imputá-lo a alguém, é comunicação falsa (art. 340).",
+        "fonte": "CP, art. 339",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-DP-25",
+        "f": "Na denunciação caluniosa, o que acontece com a pena se a imputação é de contravenção?",
+        "b": "A pena é **diminuída de metade** (art. 339, § 2º).\nPegadinha: com anonimato ou nome suposto, ela aumenta de sexta parte (§ 1º).",
+        "fonte": "CP, art. 339, § 2º",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DP-26",
+        "f": "Acusar-se, perante a autoridade, de crime praticado por outra pessoa configura qual crime?",
+        "b": "**Auto-acusação falsa** (art. 341): vale para crime inexistente ou **praticado por outrem**.",
+        "fonte": "CP, art. 341",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-DP-27",
+        "f": "Até quando a retratação no falso testemunho torna o fato não punível?",
+        "b": "Até **antes da sentença** no processo em que ocorreu o ilícito.\nPegadinha: a banca troca por \"antes do trânsito em julgado\".",
+        "fonte": "CP, art. 342, § 2º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DP-28",
+        "f": "No exercício arbitrário das próprias razões sem violência, como se procede?",
+        "b": "**Somente mediante queixa** (art. 345, parágrafo único).\nPegadinha: a banca troca queixa por representação.",
+        "fonte": "CP, art. 345, parágrafo único",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-DP-29",
+        "f": "Fraude processual destinada a produzir efeito em processo penal: o que acontece com a pena?",
+        "b": "As penas aplicam-se **em dobro**, ainda que o processo penal **não tenha sido iniciado**.",
+        "fonte": "CP, art. 347, parágrafo único",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DP-30",
+        "f": "Solicitar dinheiro a pretexto de influir em juiz, jurado, MP ou testemunha configura qual crime?",
+        "b": "**Exploração de prestígio** (art. 357).\nPegadinha: a pretexto de influir em funcionário público em geral, é tráfico de influência (art. 332).",
+        "fonte": "CP, art. 357",
+        "t": "conceito"
+      }
+    ]
+  },
+  {
+    "id": "DPC",
+    "nome": "Direito Processual Civil",
+    "cards": [
+      {
+        "id": "esc-DPC-01",
+        "f": "Qual o prazo para a parte alegar impedimento ou suspeição do juiz e de quando ele conta?",
+        "b": "**15 dias**, a contar do **conhecimento do fato**, em petição específica dirigida ao juiz do processo.\nPegadinha: trocar por 5 dias.",
+        "fonte": "CPC, art. 146",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-02",
+        "f": "No impedimento do juiz por parentesco com o advogado que postula no processo, até que grau vai o parentesco?",
+        "b": "Até o **terceiro grau, inclusive**, consanguíneo ou afim, em linha reta ou colateral.\nPegadinha: trocar por 4º grau.",
+        "fonte": "CPC, art. 144, III",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPC-03",
+        "f": "Oficial certificou proposta de autocomposição no mandado. Em quanto tempo a parte contrária se manifesta e o que vale o silêncio?",
+        "b": "**5 dias**. O silêncio é entendido como **recusa**.\nPegadinha: tratar o silêncio como aceitação.",
+        "fonte": "CPC, art. 154, parágrafo único",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-04",
+        "f": "Juntada e vista obrigatória dependem de despacho do juiz?",
+        "b": "Não. São **atos meramente ordinatórios**: praticados **de ofício pelo servidor** e revistos pelo juiz quando necessário.",
+        "fonte": "CPC, art. 203, § 4º",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-DPC-05",
+        "f": "Em processo sob segredo de justiça, quem pode consultar os autos e pedir certidões?",
+        "b": "Só **as partes e seus procuradores**. Terceiro com interesse jurídico pode pedir certidão do **dispositivo da sentença**.",
+        "fonte": "CPC, art. 189, §§ 1º e 2º",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DPC-06",
+        "f": "Em que dias e horário os atos processuais são realizados?",
+        "b": "Em **dias úteis, das 6 às 20 horas**. Ato iniciado antes pode terminar depois das 20h se o adiamento prejudicar a diligência.",
+        "fonte": "CPC, art. 212",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPC-07",
+        "f": "Em que período fica suspenso o curso dos prazos processuais no fim do ano?",
+        "b": "De **20 de dezembro a 20 de janeiro, inclusive**. Nesse período não há audiências nem sessões de julgamento.",
+        "fonte": "CPC, art. 220",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-08",
+        "f": "Litisconsortes com procuradores de escritórios distintos têm prazo em dobro em processo eletrônico?",
+        "b": "Não. O prazo em dobro **não se aplica aos autos eletrônicos**.",
+        "fonte": "CPC, art. 229, § 2º",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-DPC-09",
+        "f": "Por quanto tempo não se faz a citação do cônjuge ou de parente do morto?",
+        "b": "No **dia do falecimento e nos 7 dias seguintes**, salvo para evitar o perecimento do direito.\nPegadinha: trocar 7 por 3, 10 ou 15 dias.",
+        "fonte": "CPC, art. 244, II",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-10",
+        "f": "Em quanto tempo o citando deve confirmar o recebimento da citação eletrônica?",
+        "b": "Em **até 3 dias úteis** do recebimento. Sem confirmação, cita-se por correio, oficial de justiça, escrivão ou edital.",
+        "fonte": "CPC, art. 246, § 1º-A",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-11",
+        "f": "Na citação por edital, entre quais limites o juiz fixa o prazo?",
+        "b": "Entre **20 e 60 dias**, fluindo da publicação única ou, havendo mais de uma, da primeira.",
+        "fonte": "CPC, art. 257, III",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-12",
+        "f": "Quando não feitas por meio eletrônico, como se consideram realizadas as intimações?",
+        "b": "Pela **publicação dos atos no órgão oficial**, com os nomes das partes e dos advogados e o número da OAB, sob pena de nulidade.",
+        "fonte": "CPC, art. 272, caput e § 2º",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DPC-13",
+        "f": "A vedação por perigo de irreversibilidade dos efeitos atinge qual tutela de urgência?",
+        "b": "Só a de **natureza antecipada**.\nPegadinha: estender a vedação à tutela cautelar.",
+        "fonte": "CPC, art. 300, § 3º",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-DPC-14",
+        "f": "Em quanto tempo se extingue o direito de rever, reformar ou invalidar a tutela antecipada estabilizada?",
+        "b": "**2 anos**, contados da **ciência da decisão que extinguiu o processo**.\nPegadinha: contar do trânsito em julgado.",
+        "fonte": "CPC, art. 304, § 5º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-15",
+        "f": "Efetivada a tutela cautelar antecedente, em quanto tempo o autor deve formular o pedido principal?",
+        "b": "**30 dias**, nos mesmos autos, sem adiantamento de novas custas.\nPegadinha: trocar por 15 dias.",
+        "fonte": "CPC, art. 308",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-16",
+        "f": "Com que antecedência mínima é designada a audiência de conciliação ou mediação do procedimento comum?",
+        "b": "**30 dias**, devendo o réu ser citado com pelo menos **20 dias** de antecedência.",
+        "fonte": "CPC, art. 334",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-17",
+        "f": "Qual é o prazo de contestação no procedimento comum?",
+        "b": "**15 dias**, em regra contados da audiência de conciliação sem acordo ou do protocolo do pedido de cancelamento feito pelo réu.",
+        "fonte": "CPC, art. 335",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-18",
+        "f": "Um réu foi revel, mas o outro réu contestou. Presumem-se verdadeiros os fatos alegados pelo autor?",
+        "b": "Não. Havendo **pluralidade de réus e algum deles contestar**, a revelia não produz esse efeito.",
+        "fonte": "CPC, art. 345, I",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-DPC-19",
+        "f": "Contra o revel sem patrono nos autos, de quando fluem os prazos?",
+        "b": "Da **data de publicação do ato decisório no órgão oficial**.",
+        "fonte": "CPC, art. 346",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DPC-20",
+        "f": "Qual o número máximo de testemunhas arroladas e quantas por fato?",
+        "b": "No máximo **10 testemunhas**, sendo **3 por fato**.",
+        "fonte": "CPC, art. 357, § 6º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPC-21",
+        "f": "Nos debates orais ao fim da instrução, quanto tempo tem cada advogado e o MP?",
+        "b": "**20 minutos** para cada um, **prorrogáveis por 10**, a critério do juiz.",
+        "fonte": "CPC, art. 364",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPC-22",
+        "f": "Em que momentos a parte deve suscitar a falsidade de documento?",
+        "b": "Na **contestação**, na **réplica** ou em **15 dias** da intimação da juntada do documento.",
+        "fonte": "CPC, art. 430",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-23",
+        "f": "O advogado intimou a testemunha por carta com AR. Com que antecedência junta a cópia e o comprovante nos autos?",
+        "b": "Pelo menos **3 dias** antes da data da audiência.\nPegadinha: trocar por 5 dias.",
+        "fonte": "CPC, art. 455, §§ 1º e 3º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-24",
+        "f": "Publicada a sentença, em que casos o juiz pode alterá-la?",
+        "b": "Para corrigir **inexatidões materiais ou erros de cálculo**, de ofício ou a pedido, ou por meio de **embargos de declaração**.",
+        "fonte": "CPC, art. 494",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DPC-25",
+        "f": "Sem pagamento voluntário em 15 dias no cumprimento de sentença, quais acréscimos incidem sobre o débito?",
+        "b": "**Multa de 10%** e **honorários de advogado de 10%**. Se o pagamento for parcial, incidem sobre o restante.",
+        "fonte": "CPC, art. 523, §§ 1º e 2º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPC-26",
+        "f": "Qual é o prazo para interpor e responder recursos no CPC e qual recurso é a exceção?",
+        "b": "**15 dias**. Exceção: **embargos de declaração**, opostos em **5 dias** e sem preparo.",
+        "fonte": "CPC, arts. 1.003, § 5º, e 1.023",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPC-27",
+        "f": "Embargos de declaração suspendem ou interrompem o prazo para outros recursos?",
+        "b": "**Interrompem** o prazo e **não possuem efeito suspensivo**.\nPegadinha: dizer que suspendem o prazo.",
+        "fonte": "CPC, art. 1.026",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DPC-28",
+        "f": "Qual é o teto de valor das causas no Juizado Especial Cível?",
+        "b": "**40 salários mínimos**. Optar pelo JEC importa renúncia ao crédito excedente, salvo conciliação.\nPegadinha: 60 salários mínimos é o teto da Fazenda Pública.",
+        "fonte": "Lei 9.099/95, art. 3º, I e § 3º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPC-29",
+        "f": "No JEC, até que valor da causa a parte pode comparecer sem advogado?",
+        "b": "Até **20 salários mínimos**, podendo ser assistida. Acima disso, a assistência por advogado é **obrigatória**.",
+        "fonte": "Lei 9.099/95, art. 9º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPC-30",
+        "f": "Quem não pode ser parte no processo do Juizado Especial Cível?",
+        "b": "**Incapaz, preso**, pessoas jurídicas de direito público, **empresas públicas da União**, massa falida e insolvente civil.",
+        "fonte": "Lei 9.099/95, art. 8º",
+        "t": "regra"
+      }
+    ]
+  },
+  {
+    "id": "DPP",
+    "nome": "Direito Processual Penal",
+    "cards": [
+      {
+        "id": "esc-DPP-01",
+        "f": "Até que grau o parentesco do juiz com quem atuou no processo como defensor, MP ou perito gera impedimento?",
+        "b": "Até o **terceiro grau, inclusive**, consanguíneo ou afim, em linha reta ou colateral.",
+        "fonte": "CPP, art. 252, I",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPP-02",
+        "f": "Juiz amigo íntimo ou inimigo capital de uma das partes: impedimento ou suspeição?",
+        "b": "**Suspeição** (art. 254, I).\nPegadinha: impedimento (art. 252) é ligado a atuação no processo ou parentesco com quem nele funcionou.",
+        "fonte": "CPP, art. 254, I",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DPP-03",
+        "f": "Se a parte injuria o juiz de propósito para criar a suspeição, ela pode ser reconhecida?",
+        "b": "**Não**: a suspeição não será declarada nem reconhecida quando a parte der motivo de propósito para criá-la.",
+        "fonte": "CPP, art. 256",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-DPP-04",
+        "f": "Acusado ausente ou foragido pode ser processado sem defensor?",
+        "b": "**Não**: nenhum acusado, ainda que ausente ou foragido, será processado ou julgado sem defensor.",
+        "fonte": "CPP, art. 261",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DPP-05",
+        "f": "Qual o prazo da citação por edital do réu não encontrado?",
+        "b": "**15 (quinze) dias**.",
+        "fonte": "CPP, art. 361",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPP-06",
+        "f": "O oficial verifica que o réu se oculta para não ser citado. Qual a forma de citação?",
+        "b": "**Citação com hora certa**, certificada pelo oficial de justiça.\nPegadinha: edital é para réu não encontrado (art. 361), não para quem se oculta.",
+        "fonte": "CPP, art. 362",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DPP-07",
+        "f": "Réu citado por edital não comparece nem constitui advogado. Qual a consequência?",
+        "b": "Ficam **suspensos o processo e o curso do prazo prescricional**.\nPegadinha: não é revelia com prosseguimento do feito.",
+        "fonte": "CPP, art. 366",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DPP-08",
+        "f": "Como é citado o réu preso?",
+        "b": "**Pessoalmente** (art. 360).",
+        "fonte": "CPP, art. 360",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DPP-09",
+        "f": "Como se cita o acusado que está no estrangeiro em lugar sabido, e o que ocorre com a prescrição?",
+        "b": "Por **carta rogatória**, suspendendo-se o prazo de prescrição **até o seu cumprimento**.",
+        "fonte": "CPP, art. 368",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DPP-10",
+        "f": "Qual a pena que define o rito ordinário no processo penal?",
+        "b": "Crime com sanção máxima **igual ou superior a 4 anos**. Abaixo de 4 anos, rito sumário.",
+        "fonte": "CPP, art. 394, § 1º, I e II",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPP-11",
+        "f": "Quantas testemunhas cada parte pode arrolar no procedimento ordinário?",
+        "b": "Até **8 (oito)** pela acusação e 8 pela defesa, sem contar as que não prestam compromisso e as referidas.",
+        "fonte": "CPP, art. 401",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPP-12",
+        "f": "Qual o prazo da resposta à acusação nos ritos ordinário e sumário?",
+        "b": "**10 (dez) dias**, por escrito, após a citação.",
+        "fonte": "CPP, art. 396",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPP-13",
+        "f": "Qual excludente de culpabilidade NÃO autoriza a absolvição sumária do art. 397?",
+        "b": "A **inimputabilidade**: o inciso II ressalva expressamente esse caso.",
+        "fonte": "CPP, art. 397, II",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-DPP-14",
+        "f": "O que o juiz precisa para pronunciar o acusado no júri?",
+        "b": "Convencimento da **materialidade** do fato e **indícios suficientes** de autoria ou participação.\nPegadinha: não exige certeza da autoria.",
+        "fonte": "CPP, art. 413",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-DPP-15",
+        "f": "Qual recurso cabe contra a impronúncia e a absolvição sumária no júri?",
+        "b": "**Apelação** (art. 416).\nPegadinha: contra a pronúncia cabe recurso em sentido estrito (art. 581, IV).",
+        "fonte": "CPP, arts. 416 e 581, IV",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DPP-16",
+        "f": "Como é composto o Tribunal do Júri?",
+        "b": "**1 juiz togado** (presidente) e **25 jurados** sorteados; **7** formam o Conselho de Sentença.",
+        "fonte": "CPP, art. 447",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPP-17",
+        "f": "Quantos jurados, no mínimo, precisam comparecer para instalar os trabalhos do júri?",
+        "b": "Pelo menos **15 (quinze)** jurados.",
+        "fonte": "CPP, art. 463",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPP-18",
+        "f": "Quantas recusas imotivadas cada parte tem no sorteio do Conselho de Sentença, e quem recusa primeiro?",
+        "b": "Até **3 (três)** por parte. A **defesa** recusa primeiro, depois o MP.",
+        "fonte": "CPP, art. 468",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPP-19",
+        "f": "Quanto tempo têm acusação e defesa nos debates em plenário do júri?",
+        "b": "**Uma hora e meia** para cada; réplica e tréplica de **uma hora** cada.",
+        "fonte": "CPP, art. 477",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPP-20",
+        "f": "Quantas testemunhas cada parte pode arrolar no procedimento sumário?",
+        "b": "Até **5 (cinco)** pela acusação e 5 pela defesa.\nPegadinha: 8 é do rito ordinário.",
+        "fonte": "CPP, art. 532",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPP-21",
+        "f": "Na restauração de autos, como respondem os causadores do extravio?",
+        "b": "Pelas **custas em dobro**, sem prejuízo da responsabilidade criminal.",
+        "fonte": "CPP, art. 546",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DPP-22",
+        "f": "Qual o prazo para interpor apelação no processo penal (CPP)?",
+        "b": "**5 (cinco) dias**.\nPegadinha: no JECrim a apelação é de 10 dias, e no CPC são 15 dias úteis.",
+        "fonte": "CPP, art. 593",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPP-23",
+        "f": "Assinado o termo de apelação, qual o prazo de apelante e apelado para as razões?",
+        "b": "**8 (oito) dias** cada um; nos processos de contravenção, 3 dias.",
+        "fonte": "CPP, art. 600",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPP-24",
+        "f": "O Ministério Público pode desistir de recurso que interpôs?",
+        "b": "**Não**: o MP não pode desistir de recurso que haja interposto.",
+        "fonte": "CPP, art. 576",
+        "t": "regra"
+      },
+      {
+        "id": "esc-DPP-25",
+        "f": "Até quando pode ser requerida a revisão criminal?",
+        "b": "Em **qualquer tempo**, antes da extinção da pena ou após.",
+        "fonte": "CPP, art. 622",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-DPP-26",
+        "f": "A revisão criminal julgada procedente pode agravar a pena?",
+        "b": "**Não**: de qualquer maneira, não poderá ser agravada a pena imposta pela decisão revista.",
+        "fonte": "CPP, art. 626, parágrafo único",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DPP-27",
+        "f": "Quem pode impetrar habeas corpus?",
+        "b": "**Qualquer pessoa**, em seu favor ou de outrem, e também o Ministério Público.",
+        "fonte": "CPP, art. 654",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-DPP-28",
+        "f": "O que é infração de menor potencial ofensivo na Lei 9.099/95?",
+        "b": "Contravenções penais e crimes com pena **máxima não superior a 2 anos**, cumulada ou não com multa.",
+        "fonte": "Lei 9.099/95, art. 61",
+        "t": "numero"
+      },
+      {
+        "id": "esc-DPP-29",
+        "f": "Qual pena permite a suspensão condicional do processo (sursis processual)?",
+        "b": "Pena **mínima** cominada **igual ou inferior a 1 ano**. A suspensão dura de 2 a 4 anos.\nPegadinha: a banca troca mínima por máxima.",
+        "fonte": "Lei 9.099/95, art. 89",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-DPP-30",
+        "f": "Quem recebeu transação penal fica impedido de novo benefício por quanto tempo?",
+        "b": "Por **5 (cinco) anos**.",
+        "fonte": "Lei 9.099/95, art. 76, § 2º, II, e § 4º",
+        "t": "prazo"
+      }
+    ]
+  },
+  {
+    "id": "INF",
+    "nome": "Noções de Informática",
+    "cards": [
+      {
+        "id": "esc-INF-01",
+        "f": "No Windows, um arquivo excluído com SHIFT+DEL vai para a Lixeira?",
+        "b": "Não: SHIFT+DEL faz a **exclusão definitiva**. DEL simples envia para a Lixeira.\nPegadinha: dizer que SHIFT+DEL envia para a Lixeira.",
+        "fonte": "Windows: Lixeira (Resumo m10)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-INF-02",
+        "f": "No Windows, arrastar um arquivo com o mouse: quando ele é movido e quando é copiado?",
+        "b": "**Mesma unidade: move**. Unidades diferentes (HD para pen drive): **copia**.",
+        "fonte": "Windows: mover x copiar (Resumo m10)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-INF-03",
+        "f": "No histórico da Área de Transferência (Win+V), o que garante a opção “Fixar”?",
+        "b": "O item **persiste mesmo após limpar o histórico e reiniciar** o computador. Item não fixado se perde ao reiniciar.",
+        "fonte": "Windows: Área de Transferência (Resumo m10)",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-INF-04",
+        "f": "No Windows, o que fazem Win+D e Win+Tab?",
+        "b": "**Win+D**: mostra a Área de Trabalho, minimizando todas as janelas. **Win+Tab**: abre a Visão de Tarefas.\nPegadinha: trocar as funções dos dois atalhos.",
+        "fonte": "Windows: atalhos (Resumo m10)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-INF-05",
+        "f": "Quais caracteres o Windows não aceita em nomes de arquivos e pastas?",
+        "b": "São 9: **\\ / : * ? \" < > |**. Outros, como @, #, $, % e &, são permitidos.",
+        "fonte": "Windows: caracteres proibidos (Resumo m10)",
+        "t": "numero"
+      },
+      {
+        "id": "esc-INF-06",
+        "f": "No Word, o que acontece ao pressionar ENTER dentro de uma célula de tabela?",
+        "b": "Cria **novo parágrafo dentro da mesma célula**; não cria nova linha na tabela.",
+        "fonte": "Word: tabelas, ENTER (Resumo m25)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-INF-07",
+        "f": "No Word, o que faz a tecla TAB pressionada na última célula de uma tabela?",
+        "b": "**Cria nova linha** na tabela. Nas demais células, TAB avança para a célula seguinte.",
+        "fonte": "Word: tabelas, TAB (Resumo m25)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-INF-08",
+        "f": "No Word, como deixar uma única página do documento em orientação paisagem?",
+        "b": "Inserindo **quebra de seção** antes e depois dela.\nPegadinha: dizer que basta usar Layout > Orientação.",
+        "fonte": "Word: quebra de seção (Resumo m25)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-INF-09",
+        "f": "No Word, a quebra de página manual (Ctrl+Enter) cria nova seção?",
+        "b": "Não. Só força **nova página dentro da mesma seção**. Margens ou orientação diferentes exigem quebra de seção.",
+        "fonte": "Word: quebra de página (Resumo m25)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-INF-10",
+        "f": "No Word, o que muda ao dar clique DUPLO no Pincel de Formatação?",
+        "b": "A formatação pode ser aplicada **várias vezes, até pressionar ESC**. Com clique simples, aplica-se uma vez só.",
+        "fonte": "Word: Pincel de Formatação (Resumo m25)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-INF-11",
+        "f": "No Word em português, quais atalhos aplicam negrito e sublinhado?",
+        "b": "**Ctrl+N** aplica negrito e **Ctrl+S** aplica sublinhado. Itálico é Ctrl+I.",
+        "fonte": "Word: atalhos de fonte (Resumo m25)",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-INF-12",
+        "f": "No Word, com o Controle de Alterações ativo, como aparecem adições e exclusões?",
+        "b": "Adições **sublinhadas** e exclusões **tachadas**, em cores por autor. É possível aceitar ou rejeitar todas de uma vez.",
+        "fonte": "Word: Controle de Alterações (Resumo m25)",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-INF-13",
+        "f": "No Word, qual o rótulo padrão ao inserir legenda em uma imagem?",
+        "b": "**Figura** (não Imagem nem Foto).",
+        "fonte": "Word: legendas (Resumo m25)",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-INF-14",
+        "f": "No Excel, o que calcula =MÉDIA(B2;B6)?",
+        "b": "A média de **apenas duas células**, B2 e B6. Para o intervalo de B2 até B6, usa-se dois-pontos: =MÉDIA(B2:B6).",
+        "fonte": "Excel: ponto e vírgula x dois-pontos (Resumo m40)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-INF-15",
+        "f": "No Excel, onde fica o intervalo a ser somado em SOMASE e em SOMASES?",
+        "b": "**SOMASE: no fim** (intervalo; critério; intervalo_soma). **SOMASES: no início** (intervalo_soma; intervalo_critério; critério).",
+        "fonte": "Excel: SOMASE x SOMASES (Resumo m40)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-INF-16",
+        "f": "No Excel, CONT.NÚM conta células com 0, com número negativo e com texto?",
+        "b": "Conta **0 e negativos**, que são números. Não conta texto nem célula vazia.",
+        "fonte": "Excel: CONT.NÚM (Resumo m40)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-INF-17",
+        "f": "No Excel, o que retorna =MAIOR(B2:B8;3)?",
+        "b": "O **3º maior valor** do intervalo. O k é obrigatório, e MAIOR(intervalo;1) equivale a MÁXIMO.\nPegadinha: achar que retorna a 3ª célula.",
+        "fonte": "Excel: MAIOR e MENOR (Resumo m40)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-INF-18",
+        "f": "No PROCV, o que significa FALSO no 4º argumento?",
+        "b": "**Correspondência exata**. VERDADEIRO ou omitido indica correspondência aproximada, com a 1ª coluna ordenada.",
+        "fonte": "Excel: PROCV (Resumo m40)",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-INF-19",
+        "f": "No Excel, o que a referência A$1 trava quando a fórmula é copiada?",
+        "b": "Só a **linha**. $A1 trava a coluna; $A$1 trava as duas. A tecla F4 alterna os tipos.",
+        "fonte": "Excel: referência mista (Resumo m40)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-INF-20",
+        "f": "Com A1 = casa, A2 = de e A3 = barro, qual o resultado de =CONCATENAR(A1;A2;A3)?",
+        "b": "**casadebarro**: CONCATENAR e & não inserem espaço. Para separar, inclua \" \" entre os argumentos.",
+        "fonte": "Excel: CONCATENAR (TJSP 2024) (Resumo m40)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-INF-21",
+        "f": "Um .CSV recebe uma Tabela Dinâmica em nova planilha e é salvo de novo como CSV. O que sobra ao reabrir?",
+        "b": "Só a **Planilha1 com os dados originais**: CSV é texto puro, guarda uma planilha, sem abas extras, fórmulas ou tabela dinâmica.",
+        "fonte": "Excel: formato CSV (Resumo m40)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-INF-22",
+        "f": "Quem recebe a mensagem quando se usa “Responder a todos”?",
+        "b": "**Remetente + Para + Cc**. Quem estava em **Cco nunca** é incluído.",
+        "fonte": "Correio eletrônico: Responder a todos (Resumo m3)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-INF-23",
+        "f": "Encaminhar ou Responder: qual mantém o anexo da mensagem original?",
+        "b": "**Encaminhar** mantém o anexo. Responder e Responder a todos não o incluem.",
+        "fonte": "Correio eletrônico: anexos (Resumo m3)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-INF-24",
+        "f": "Mensagem enviada sem conexão com a internet: em que pasta do Outlook ela fica?",
+        "b": "Na **Caixa de Saída**, até a conexão voltar. Só em Itens Enviados ela já foi transmitida.",
+        "fonte": "Correio eletrônico: pastas (Resumo m3)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-INF-25",
+        "f": "Qual protocolo de e-mail usa a porta 995?",
+        "b": "**POP3 com SSL/TLS** (recebimento). IMAP com SSL usa a 993; SMTP é o protocolo de envio.",
+        "fonte": "Correio eletrônico: protocolos (Resumo m3)",
+        "t": "numero"
+      },
+      {
+        "id": "esc-INF-26",
+        "f": "Quais partes de uma URL são obrigatórias?",
+        "b": "Só **protocolo e domínio**. Porta, caminho e recurso são opcionais.",
+        "fonte": "Internet: URL (Resumo m53a)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-INF-27",
+        "f": "A navegação privativa (anônima) torna o usuário invisível na internet?",
+        "b": "Não. Ela só **deixa de gravar no dispositivo** histórico, cookies persistentes e dados de formulário; o provedor ainda vê os acessos.",
+        "fonte": "Internet: navegação privativa (Resumo m53a)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-INF-28",
+        "f": "No Teams, qual a diferença entre acesso externo e acesso de convidado?",
+        "b": "**Externo**: encontrar, ligar e conversar com pessoas de outra organização. **Convidado**: entra como membro de uma equipe.",
+        "fonte": "Teams: acesso externo x convidado (Resumo m53b)",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-INF-29",
+        "f": "Qual a extensão dos arquivos do OneNote e como ele se organiza?",
+        "b": "Extensão **.one**. Organização: blocos de anotações, divididos em seções, que contêm páginas.",
+        "fonte": "OneNote: extensão e estrutura (Resumo m53b)",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-INF-30",
+        "f": "Qual armazenamento em nuvem já vem incluído por padrão no Teams?",
+        "b": "O **OneDrive for Business**. Também é possível adicionar Dropbox ou Google Drive, se permitido.",
+        "fonte": "OneDrive no Teams (Resumo m53b)",
+        "t": "palavra-chave"
+      }
+    ]
+  },
+  {
+    "id": "LI",
+    "nome": "Legislação Interna do TJSP",
+    "cards": [
+      {
+        "id": "esc-LI-01",
+        "f": "Res. 850/2021: o servidor em estágio probatório pode fazer teletrabalho?",
+        "b": "Só fica vedado no **primeiro ano** do estágio probatório (art. 11, VI).\nPegadinha: afirmar que todo o estágio probatório impede o teletrabalho.",
+        "fonte": "Res. TJSP 850/2021, art. 11, VI",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-LI-02",
+        "f": "Res. 850/2021: penalidade disciplinar impede o teletrabalho se aplicada em que período?",
+        "b": "Nos **2 anos anteriores** à solicitação.\nPegadinha: os 6 meses do art. 11 valem para desligamento do teletrabalho e remoção.",
+        "fonte": "Res. TJSP 850/2021, art. 11, II",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-LI-03",
+        "f": "Res. 850/2021: nas unidades de 1º grau (exceto gabinetes), qual o limite de servidores em teletrabalho?",
+        "b": "Até **50%** do quadro, arredondada a fração para o inteiro superior.\nPegadinha: 70% vale para unidades ligadas à Presidência, Vice, CGJ e Presidências de Seção.",
+        "fonte": "Res. TJSP 850/2021, art. 9º, II e III",
+        "t": "numero"
+      },
+      {
+        "id": "esc-LI-04",
+        "f": "Res. 850/2021: duração e janela do intervalo de almoço no teletrabalho?",
+        "b": "**30 minutos**, com tolerância de até 15, obrigatoriamente **entre 12h e 14h**, vedadas reuniões nesse período salvo urgência.",
+        "fonte": "Res. TJSP 850/2021, art. 9º, VIII",
+        "t": "numero"
+      },
+      {
+        "id": "esc-LI-05",
+        "f": "Res. 850/2021: como deve ser a produtividade do servidor em teletrabalho?",
+        "b": "**Superior** à produtividade aferida na atividade presencial da unidade, sem percentual fixo.\nPegadinha: \"igual ou superior\", que é a regra do magistrado.",
+        "fonte": "Res. TJSP 850/2021, art. 18",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-LI-06",
+        "f": "Res. 850/2021: qual auxílio o servidor em teletrabalho deixa de receber?",
+        "b": "O **auxílio-transporte**. O auxílio-alimentação é mantido.",
+        "fonte": "Res. TJSP 850/2021, arts. 3º e 8º, § 2º",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-LI-07",
+        "f": "Res. 850/2021: cessado o teletrabalho, em quanto tempo o servidor deve retornar ao presencial?",
+        "b": "Em até **5 dias úteis**, mantido o dever de cumprir as atividades do plano de trabalho.",
+        "fonte": "Res. TJSP 850/2021, art. 19, § 1º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-LI-08",
+        "f": "Res. 963/2025 (eproc): quando a indisponibilidade entre 12h e 23h prorroga o prazo?",
+        "b": "Quando **superior a 60 minutos**, ininterruptos ou não. Entre 23h01 e 24h, prorroga por **qualquer período**.",
+        "fonte": "Res. TJSP 963/2025, art. 21",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-LI-09",
+        "f": "Res. 963/2025: indisponibilidade do eproc entre 00h01 e 11h59 de dia de expediente prorroga o prazo?",
+        "b": "**Não**, por qualquer período. Também não prorroga a ocorrida em feriados e fins de semana.",
+        "fonte": "Res. TJSP 963/2025, art. 21, § 1º",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-LI-10",
+        "f": "Res. 963/2025: até que horário é tempestivo o ato enviado no último dia do prazo?",
+        "b": "Até as **24 horas** do último dia, considerado o **horário oficial de Brasília**.",
+        "fonte": "Res. TJSP 963/2025, art. 26, §§ 1º e 2º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-LI-11",
+        "f": "Res. 963/2025: a quem compete identificar o sistema processual correto (eproc ou legado)?",
+        "b": "**Exclusivamente ao peticionante**, sob pena de o ato não produzir efeitos jurídicos.",
+        "fonte": "Res. TJSP 963/2025, art. 14",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-LI-12",
+        "f": "Res. 963/2025: em quanto tempo o gestor deve interromper o acesso do usuário interno que deixou a unidade?",
+        "b": "Em até **24 horas** após o encerramento do vínculo, sob pena de responsabilidade.",
+        "fonte": "Res. TJSP 963/2025, art. 16, § 1º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-LI-13",
+        "f": "Res. 963/2025: quais órgãos exercem a governança do eproc no TJSP?",
+        "b": "**CGe** (Comitê Gestor do eproc), **NGN** (Núcleo de Gestão Negocial) e **NGT** (Núcleo de Gestão Técnica).",
+        "fonte": "Res. TJSP 963/2025, art. 4º",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-LI-14",
+        "f": "Res. 963/2025: processo ajuizado antes da implantação do eproc migra automaticamente?",
+        "b": "**Não**. Continua no **sistema legado** até o encerramento, com seus recursos e incidentes, ressalvada a migração.",
+        "fonte": "Res. TJSP 963/2025, art. 11",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LI-15",
+        "f": "LC 1.111/2010: qual a duração do estágio probatório do servidor do TJSP?",
+        "b": "**36 meses**, avaliando assiduidade, pontualidade, aptidão, capacidade e eficiência.",
+        "fonte": "LC 1.111/2010, art. 11",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-LI-16",
+        "f": "LC 1.111/2010: passagem de um grau para o imediatamente superior, na mesma referência e nível, chama-se?",
+        "b": "**Progressão** (art. 13).\nPegadinha: Promoção é a passagem para o **nível e grau** imediatamente superior (art. 21).",
+        "fonte": "LC 1.111/2010, arts. 13 e 21",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-LI-17",
+        "f": "LC 1.111/2010: prazo do recurso ao Comitê de Recursos Humanos contra o resultado da Progressão?",
+        "b": "**30 dias corridos**, da publicação do resultado. O mesmo prazo vale para a Promoção.",
+        "fonte": "LC 1.111/2010, arts. 18 e 26",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-LI-18",
+        "f": "LC 1.111/2010: percentual do Adicional de Qualificação para título de Mestre?",
+        "b": "**15%**. Doutor 20%, especialização 10% e graduação 7,5%.",
+        "fonte": "LC 1.111/2010, art. 37-B",
+        "t": "numero"
+      },
+      {
+        "id": "esc-LI-19",
+        "f": "LC 1.111/2010: base do adicional por tempo de serviço?",
+        "b": "**5% por quinquênio** de serviço, sobre o valor dos vencimentos.",
+        "fonte": "LC 1.111/2010, art. 7º, I",
+        "t": "numero"
+      },
+      {
+        "id": "esc-LI-20",
+        "f": "RITJSP: quantos desembargadores compõem o Órgão Especial e quem são os membros natos?",
+        "b": "**Vinte e cinco**. Natos: **Presidente, Vice-Presidente e Corregedor Geral da Justiça**.",
+        "fonte": "RITJSP, art. 8º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-LI-21",
+        "f": "RITJSP: quantos integrantes do Órgão Especial o Tribunal Pleno elege?",
+        "b": "**Doze** desembargadores, e seus suplentes.\nPegadinha: trocar por 13 ou 25 (o Órgão Especial tem 25 no total).",
+        "fonte": "RITJSP, art. 4º, II",
+        "t": "numero"
+      },
+      {
+        "id": "esc-LI-22",
+        "f": "RITJSP: qual o quórum mínimo de instalação do Órgão Especial?",
+        "b": "No mínimo **treze** desembargadores.\nPegadinha: trocar por doze ou por \"maioria absoluta\".",
+        "fonte": "RITJSP, art. 11",
+        "t": "numero"
+      },
+      {
+        "id": "esc-LI-23",
+        "f": "RITJSP: quem compõe o Conselho Superior da Magistratura?",
+        "b": "**Presidente** (que o preside), **Vice-Presidente**, **Corregedor Geral**, **Decano** e **Presidentes das Seções**.",
+        "fonte": "RITJSP, art. 15",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-LI-24",
+        "f": "RITJSP: quem julga o incidente de suspeição ou impedimento de juiz de primeiro grau?",
+        "b": "A **Câmara Especial**.\nPegadinha: suspeição ou impedimento de desembargador é do Órgão Especial (art. 13, I, g).",
+        "fonte": "RITJSP, art. 33, parágrafo único, I",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-LI-25",
+        "f": "RITJSP: cada Câmara tem quantos desembargadores e por quantos julga em regra?",
+        "b": "Compõe-se de **cinco**; julga por **turma de três**. Na técnica do art. 942 do CPC e nos infringentes criminais, pelos cinco.",
+        "fonte": "RITJSP, arts. 34 e 41",
+        "t": "numero"
+      },
+      {
+        "id": "esc-LI-26",
+        "f": "RITJSP: quem fica prevento para os recursos e feitos conexos de uma causa?",
+        "b": "A **Câmara ou Grupo que primeiro conhecer** da causa ou de qualquer incidente, **ainda que não apreciado o mérito**.",
+        "fonte": "RITJSP, art. 105",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-LI-27",
+        "f": "RITJSP: o desembargador deixa de ser juiz certo após afastamento superior a quantos dias?",
+        "b": "**Sessenta dias**, depois da aposição de visto ou do pedido de adiamento.",
+        "fonte": "RITJSP, art. 109",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-LI-28",
+        "f": "RITJSP: eleição para Presidente, Vice e Corregedor exige qual maioria no primeiro escrutínio?",
+        "b": "**Maioria absoluta** dos integrantes **efetivos** do Tribunal. No 2º escrutínio, brancos e nulos são computados; empate: vence o mais antigo.",
+        "fonte": "RITJSP, art. 19",
+        "t": "numero"
+      },
+      {
+        "id": "esc-LI-29",
+        "f": "RITJSP: vagando cargo de direção ou de cúpula, quando NÃO haverá nova eleição?",
+        "b": "Se restar **menos de seis meses** de mandato; ocorre substituição conforme a ordem regimental.",
+        "fonte": "RITJSP, art. 21, parágrafo único",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-LI-30",
+        "f": "RITJSP: qual o quórum para alteração do Regimento Interno?",
+        "b": "Voto de **dois terços** dos integrantes do **Órgão Especial**.",
+        "fonte": "RITJSP, art. 277",
+        "t": "numero"
+      }
+    ]
+  },
+  {
+    "id": "LP",
+    "nome": "Língua Portuguesa",
+    "cards": [
+      {
+        "id": "esc-LP-01",
+        "f": "Em interpretação de texto VUNESP, onde costuma estar a tese do autor?",
+        "b": "No **1º ou no último parágrafo**. Os parágrafos do meio trazem argumentos de suporte.\nPegadinha: alternativa que apresenta um detalhe do texto como se fosse a ideia central.",
+        "fonte": "Interpretação: tese do autor (Resumo m1)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-02",
+        "f": "Em inferência, como se chama a alternativa que parece lógica, mas traz informação sem base no texto?",
+        "b": "**Extrapolação**. Teste: aponte ONDE no texto a conclusão se apoia; se não achar, elimine.\nPegadinha: termos absolutos como sempre, nunca, todos, somente.",
+        "fonte": "Interpretação: inferência e extrapolação (Resumo m1)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-LP-03",
+        "f": "Que marcas textuais indicam OPINIÃO, e não fato, em um trecho?",
+        "b": "**Adjetivo avaliativo** e modalizador (infelizmente, sem dúvida). Dado numérico ou evento comprovável é fato.",
+        "fonte": "Interpretação: fato x opinião (Resumo m1)",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-LP-04",
+        "f": "“Porquanto” pode ser trocado por “portanto” sem mudar o sentido?",
+        "b": "Não. **Porquanto = porque** (causa). Portanto é conclusivo.\nPegadinha: a banca oferece os dois como sinônimos pela semelhança sonora.",
+        "fonte": "Conectivos: porquanto x portanto (Resumo m5b)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-LP-05",
+        "f": "Na norma-padrão cobrada pela VUNESP, “posto que” tem valor causal ou concessivo?",
+        "b": "**Concessivo**: equivale a embora.\nPegadinha: a banca apresenta “posto que” como se fosse causal (= porque).",
+        "fonte": "Conectivos: posto que (Resumo m5c)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-LP-06",
+        "f": "Qual a diferença de sentido entre “à medida que” e “na medida em que”?",
+        "b": "**À medida que** = proporção. **Na medida em que** = causa.\nPegadinha: a banca troca uma expressão pela outra na substituição.",
+        "fonte": "Conectivos: proporção x causa (Resumo m5b)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-LP-07",
+        "f": "Que valor tem o “pois” deslocado para depois do verbo, entre vírgulas? Ex.: “Está, pois, resolvido.”",
+        "b": "**Conclusão** (= portanto). Antes do verbo, o pois é explicativo.",
+        "fonte": "Conectivos: pois explicativo x conclusivo (Resumo m5b)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-08",
+        "f": "Verbo de ação física aplicado a ideia abstrata (“plantar uma ideia”, “ceifar vidas”): sentido próprio ou figurado?",
+        "b": "**Figurado** (conotação): o verbo foi transferido do campo concreto para o abstrato.",
+        "fonte": "Sentido próprio e figurado (Resumo m13)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-09",
+        "f": "Que figura de linguagem há em “Brasília decidiu”, no sentido de “o governo decidiu”?",
+        "b": "**Metonímia**: emprego de um termo por outro com o qual mantém relação (a cidade pelo governo que nela está).",
+        "fonte": "Sentido figurado: metonímia (Resumo m13)",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-LP-10",
+        "f": "Que circunstância o advérbio “também” exprime?",
+        "b": "**Inclusão**.\nPegadinha: a banca rotula “também” e “inclusive” como advérbio de tempo.",
+        "fonte": "Advérbio: circunstâncias (Resumo m5)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-LP-11",
+        "f": "Em “Viajaria se tivesse dinheiro”, em que tempo e modo estão “viajaria” e “tivesse”?",
+        "b": "**Viajaria**: futuro do pretérito do indicativo (hipótese). **Tivesse**: pretérito imperfeito do subjuntivo (condição).\nPegadinha: chamar “viajaria” de subjuntivo.",
+        "fonte": "Verbo: futuro do pretérito x imperfeito do subjuntivo (Resumo m5)",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-LP-12",
+        "f": "O que o pronome relativo “cujo” indica e o que não pode vir depois dele?",
+        "b": "Indica **posse** e não admite artigo depois: “o autor cujos livros li”.\nPegadinha: trocar “cujo” por “onde” ou “que” na reescrita.",
+        "fonte": "Pronome relativo cujo (Resumo m5)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-13",
+        "f": "Futuro do subjuntivo de “dispor”: “se disporem” ou “se dispuserem”?",
+        "b": "**Se dispuserem**. Derivados de pôr seguem o radical “puser”: dispuser, compuser, propuser.\nPegadinha: “se disporem” soa certo, mas viola a conjugação.",
+        "fonte": "Verbo: derivados de pôr (Resumo m5)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-LP-14",
+        "f": "Com “haver” no sentido de existir, em locução verbal: “podem haver problemas” ou “pode haver problemas”?",
+        "b": "**Pode haver problemas**: o haver impessoal leva o auxiliar ao singular. Já “podem existir problemas” está correto, pois existir é pessoal.",
+        "fonte": "Concordância: haver impessoal em locução (Resumo m21)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-15",
+        "f": "“Faz dois anos” ou “Fazem dois anos”?",
+        "b": "**Faz dois anos**: fazer indicando tempo decorrido é impessoal. Em locução: “vai fazer dois anos”.",
+        "fonte": "Concordância: fazer impessoal (Resumo m21)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-16",
+        "f": "“Trata-se de problemas recorrentes” ou “Tratam-se de problemas recorrentes”?",
+        "b": "**Trata-se de**: com a preposição DE, o sujeito é indeterminado e o verbo não flexiona.\nPegadinha: o plural depois do DE atrai a flexão indevida.",
+        "fonte": "Concordância: tratar-se de (Resumo m21)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-LP-17",
+        "f": "“Vende-se casas” ou “Vendem-se casas”?",
+        "b": "**Vendem-se casas**: VTD + SE forma voz passiva sintética, e o verbo concorda com o sujeito paciente (casas são vendidas).",
+        "fonte": "Concordância: voz passiva sintética (Resumo m21)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-18",
+        "f": "“Existem bastante fármacos” ou “Existem bastantes fármacos”?",
+        "b": "**Bastantes fármacos**: antes de substantivo, bastante é pronome e varia. Antes de adjetivo ou verbo é advérbio e não varia (“bastante preocupantes”).",
+        "fonte": "Concordância nominal: bastante (Resumo m21)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-19",
+        "f": "No sentido de acarretar, o verbo “implicar” pede a preposição “em”?",
+        "b": "Não: **implica mudanças**, sem preposição.\nPegadinha: “implica em mudanças” aparece como forma correta na alternativa errada.",
+        "fonte": "Regência: implicar (Resumo m28)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-LP-20",
+        "f": "Qual a regência correta do verbo “preferir”?",
+        "b": "**Preferir algo a algo**: “prefere estudar a sair”.\nPegadinha: “prefere estudar do que sair” é erro.",
+        "fonte": "Regência: preferir (Resumo m28)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-21",
+        "f": "No sentido de ver ou presenciar, “assistir” é transitivo direto ou indireto?",
+        "b": "**Transitivo indireto**, com a preposição a: “assistiu ao filme”. Sem preposição, significa ajudar, prestar assistência.",
+        "fonte": "Regência: assistir (Resumo m28)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-22",
+        "f": "Pode-se iniciar período com pronome oblíquo átono, como em “Me disseram a verdade”?",
+        "b": "Não: é **proibição** da norma-padrão. O correto é “Disseram-me a verdade”.",
+        "fonte": "Colocação pronominal: início de período (Resumo m51)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-23",
+        "f": "Verbo no futuro em início de oração: “Darei-te” ou “Dar-te-ei”?",
+        "b": "**Dar-te-ei** (mesóclise). Futuro do presente, futuro do pretérito e particípio não aceitam ênclise.",
+        "fonte": "Colocação pronominal: mesóclise (Resumo m51)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-24",
+        "f": "Com palavra atrativa, está certo “Não estou-lhe emprestando”?",
+        "b": "Não. Com palavra atrativa, o pronome não fica no meio da locução **com hífen**. Formas seguras: “Não lhe estou emprestando” ou “Não estou emprestando-lhe”.",
+        "fonte": "Colocação pronominal: locução verbal (Resumo m51)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-25",
+        "f": "Há crase em “a partir de”?",
+        "b": "**Nunca**: “a partir de agora”.\nPegadinha: “À partir de” é distrator frequente da VUNESP.",
+        "fonte": "Crase proibida: a partir de (Resumo m28)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-LP-26",
+        "f": "Há crase antes de “uma”?",
+        "b": "Não, quando “uma” é **artigo indefinido**: “respondeu a uma questão”. Exceção: nas horas a crase é obrigatória (“à uma hora”).",
+        "fonte": "Crase: antes de uma (Resumo m28)",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-LP-27",
+        "f": "A crase antes de pronome possessivo feminino (“a sua família”) é obrigatória?",
+        "b": "Não, é **facultativa**: “recorreu a sua família” ou “à sua família”. Também é facultativa antes de nome próprio feminino e após “até”.",
+        "fonte": "Crase facultativa (Resumo m28)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-LP-28",
+        "f": "Adjunto adverbial anteposto: quando a vírgula é facultativa e quando é obrigatória?",
+        "b": "**Curto** (até 2 palavras): facultativa. **Longo** (3 ou mais palavras): obrigatória.",
+        "fonte": "Pontuação: adjunto adverbial deslocado (Resumo m45)",
+        "t": "numero"
+      },
+      {
+        "id": "esc-LP-29",
+        "f": "Oração adjetiva com vírgula e sem vírgula: qual a diferença?",
+        "b": "Com vírgula: **explicativa** (pode ser retirada). Sem vírgula: **restritiva** (limita o substantivo). Tirar a vírgula muda o sentido.",
+        "fonte": "Pontuação: adjetiva explicativa x restritiva (Resumo m45)",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-LP-30",
+        "f": "Os dois-pontos entre orações equivalem a que conectivo?",
+        "b": "Ao **pois explicativo**: introduzem explicação ou desenvolvimento do que veio antes.\nPegadinha: trocá-los por conjunção adversativa.",
+        "fonte": "Pontuação: dois-pontos (Resumo m45)",
+        "t": "regra"
+      }
+    ]
+  },
+  {
+    "id": "MAT",
+    "nome": "Matemática",
+    "cards": [
+      {
+        "id": "esc-MAT-01",
+        "f": "Quanto é 7,25 horas em horas e minutos?",
+        "b": "**7 h 15 min**: multiplique a parte decimal por 60 (0,25 × 60 = 15).\nPegadinha: a banca oferece 7 h 25 min.",
+        "fonte": "Operações com decimais: horas (Resumo m7)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-MAT-02",
+        "f": "Pede-se o MAIOR número de grupos iguais com 45 agentes e 30 assistentes, sem sobra. Que conta resolve?",
+        "b": "**MDC(45, 30) = 15** grupos, cada um com 3 agentes e 2 assistentes.\nPegadinha: calcular MMC em vez de MDC.",
+        "fonte": "MDC: grupos iguais (Resumo m7)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-MAT-03",
+        "f": "Ônibus A sai a cada 18 min e B a cada 24 min. Saíram juntos: em quanto tempo saem juntos de novo?",
+        "b": "**MMC(18, 24) = 72 min**. MMC resolve eventos que voltam a coincidir.",
+        "fonte": "MMC: coincidência de eventos (Resumo m7)",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-04",
+        "f": "Escala de trabalho 4×1 (4 dias de trabalho e 1 de folga): qual ciclo entra no MMC?",
+        "b": "**5 dias** (trabalho + folga).\nPegadinha: usar ciclo de 4 dias e errar a data da folga conjunta.",
+        "fonte": "MMC: escalas de trabalho (Resumo m7)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-MAT-05",
+        "f": "Como contar quantas vezes ocorreu APENAS UM de dois eventos periódicos A e B?",
+        "b": "**Total A + Total B − 2 × coincidências**, com coincidências = intervalo ÷ MMC(A, B).\nPegadinha: subtrair as coincidências uma vez só.",
+        "fonte": "MMC: apenas um dos dois (Resumo m7)",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-06",
+        "f": "Como saber se um número é divisível por 12?",
+        "b": "Ele precisa ser divisível por **3** (soma dos algarismos) **e por 4** (dois últimos algarismos) ao mesmo tempo.",
+        "fonte": "Divisibilidade por 12 (Resumo m7)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-MAT-07",
+        "f": "Razão meninos/meninas = 3/5 e total de 40 alunos. Quantos são os meninos?",
+        "b": "Some as partes: 3 + 5 = **8**. Meninos = 3/8 × 40 = **15**.",
+        "fonte": "Razão: partes de um total (Resumo m32)",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-08",
+        "f": "Como dividir um valor em partes INVERSAMENTE proporcionais a 2, 3 e 1?",
+        "b": "**Inverta** os números (1/2, 1/3, 1), iguale os denominadores (3, 2, 6) e divida o valor diretamente por essas partes (soma 11).",
+        "fonte": "Divisão inversamente proporcional (Resumo m32)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-MAT-09",
+        "f": "Aumento de 20% seguido de aumento de 10%: qual o aumento total?",
+        "b": "**32%**: multiplique os fatores, 1,20 × 1,10 = 1,32.\nPegadinha: somar as taxas e marcar 30%.",
+        "fonte": "Porcentagem: aumentos sucessivos (Resumo m32)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-MAT-10",
+        "f": "Aumento de 20% seguido de redução de 20% devolve o preço original?",
+        "b": "Não: 1,20 × 0,80 = 0,96. O preço fica **4% menor** que o original.",
+        "fonte": "Porcentagem: aumento e desconto sucessivos (Resumo m32)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-MAT-11",
+        "f": "Um preço de R$ 81 já inclui aumento de 8%. Como achar o preço original?",
+        "b": "**Divida pelo fator**: 81 ÷ 1,08 = **R$ 75**. Após desconto de x%, divida por (1 − x/100).\nPegadinha: subtrair 8% do valor atual.",
+        "fonte": "Porcentagem inversa: valor original (Resumo m32)",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-12",
+        "f": "3 máquinas iguais fazem um serviço em 260 min. Quanto tempo levam 2 dessas máquinas?",
+        "b": "Grandeza inversa: 260 × (3 ÷ 2) = **390 min** (6 h 30 min). Mais máquinas, menos tempo.",
+        "fonte": "Regra de três inversa (Resumo m47)",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-13",
+        "f": "Na regra de três composta, o que fazer com cada grandeza antes de montar a conta?",
+        "b": "Classificar cada uma como **direta ou inversa** em relação à incógnita e inverter a razão das inversas.\nPegadinha: tratar todas como diretas.",
+        "fonte": "Regra de três composta (Resumo m47)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-MAT-14",
+        "f": "Em gotejamento, qual a equivalência padrão usada pela VUNESP entre mL e gotas?",
+        "b": "**1 mL = 20 gotas**. Converta o tempo para minutos antes de dividir o total de gotas.",
+        "fonte": "Regra de três: gotejamento (Resumo m47)",
+        "t": "numero"
+      },
+      {
+        "id": "esc-MAT-15",
+        "f": "Qual a fórmula da média aritmética ponderada?",
+        "b": "**Soma de (valor × peso) ÷ soma dos pesos**. Ex.: nota 6 com peso 1 e nota 9 com peso 2: (6 + 18) ÷ 3 = 8.",
+        "fonte": "Média aritmética ponderada",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-16",
+        "f": "A média aritmética de 5 números é 8. Qual a soma desses números?",
+        "b": "**40**: a soma é a média multiplicada pela quantidade de valores (8 × 5).",
+        "fonte": "Média aritmética simples",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-17",
+        "f": "Qual a fórmula dos juros simples?",
+        "b": "**J = C × i × t**, com taxa e tempo na mesma unidade. Montante: M = C + J.",
+        "fonte": "Juros simples: fórmula (Resumo m47)",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-18",
+        "f": "Taxa de 18% ao ano aplicada por 8 meses em juros simples: que taxa usar na conta?",
+        "b": "**1,5% ao mês** (18 ÷ 12), multiplicada pelos 8 meses.\nPegadinha: multiplicar 18% por 8.",
+        "fonte": "Juros simples: conversão de taxa (Resumo m47)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-MAT-19",
+        "f": "Em juros simples, a razão montante/capital é 23/20. Qual a taxa total do período?",
+        "b": "**15%**: J/C = 3/20, pois M = C + J.",
+        "fonte": "Juros simples: razão M/C (Resumo m47)",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-20",
+        "f": "Na equação ax² + bx + c = 0, quais as fórmulas do discriminante e de Bhaskara?",
+        "b": "**Δ = b² − 4ac** e **x = (−b ± √Δ) ÷ 2a**.",
+        "fonte": "Equação do 2º grau: Bhaskara",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-21",
+        "f": "Equação do 2º grau com Δ < 0: quantas raízes reais tem?",
+        "b": "**Nenhuma raiz real**. Δ = 0: duas raízes iguais. Δ > 0: duas raízes reais distintas.",
+        "fonte": "Equação do 2º grau: discriminante",
+        "t": "regra"
+      },
+      {
+        "id": "esc-MAT-22",
+        "f": "Na equação ax² + bx + c = 0, quanto valem a soma e o produto das raízes?",
+        "b": "**Soma = −b/a** e **produto = c/a**. Em x² − 7x + 12 = 0, as raízes são 3 e 4.\nPegadinha: esquecer o sinal de menos da soma.",
+        "fonte": "Equação do 2º grau: soma e produto",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-23",
+        "f": "Variação percentual entre dois valores de um gráfico: a diferença é dividida por qual valor?",
+        "b": "Pelo **valor antigo**: (novo − antigo) ÷ antigo. De 160 para 200 é +25%; de 200 para 160 é −20%.",
+        "fonte": "Tabelas e gráficos: variação percentual",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-24",
+        "f": "1 m² equivale a quantos cm²?",
+        "b": "**10.000 cm²** (100 × 100).\nPegadinha: converter área com o fator 100.",
+        "fonte": "Sistemas de medidas: área",
+        "t": "numero"
+      },
+      {
+        "id": "esc-MAT-25",
+        "f": "1 m³ equivale a quantos litros?",
+        "b": "**1.000 litros**. E 1 dm³ = 1 litro.",
+        "fonte": "Sistemas de medidas: volume e capacidade",
+        "t": "numero"
+      },
+      {
+        "id": "esc-MAT-26",
+        "f": "Escada de 5 m apoiada na parede, com o pé a 3 m dela: que altura atinge?",
+        "b": "**4 m**: hipotenusa² = cateto² + cateto², logo h² = 25 − 9 = 16.\nPegadinha: somar os quadrados (25 + 9) quando o dado é a hipotenusa.",
+        "fonte": "Geometria: teorema de Pitágoras",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-27",
+        "f": "Canteiro circular de 10 m de diâmetro, com π = 3,14: qual a área?",
+        "b": "**78,5 m²**: A = π · r², com raio de 5 m.\nPegadinha: usar o diâmetro como raio e chegar a 314 m².",
+        "fonte": "Geometria: área do círculo",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-MAT-28",
+        "f": "Quanto medem o complemento e o suplemento de um ângulo de 35°?",
+        "b": "Complemento (soma 90°): **55°**. Suplemento (soma 180°): **145°**.",
+        "fonte": "Geometria: ângulos",
+        "t": "formula"
+      },
+      {
+        "id": "esc-MAT-29",
+        "f": "Dobrando os lados de um quadrado, o que acontece com a área?",
+        "b": "Fica **4 vezes maior** (o fator entra ao quadrado). Em sólidos, dobrar as arestas multiplica o volume por 8.",
+        "fonte": "Geometria: ampliação de figuras",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-MAT-30",
+        "f": "No mesmo percurso, se a velocidade triplica, o que acontece com o tempo?",
+        "b": "Cai para **1/3**: tempo e velocidade são inversamente proporcionais (V = D ÷ T).",
+        "fonte": "Velocidade, espaço e tempo (Resumo m32)",
+        "t": "regra"
+      }
+    ]
+  },
+  {
+    "id": "NCGJ",
+    "nome": "Normas da Corregedoria (NSCGJ)",
+    "cards": [
+      {
+        "id": "esc-NCGJ-01",
+        "f": "Com que frequência o Juiz Corregedor Permanente faz correição ordinária e em que mês, de preferência?",
+        "b": "**Uma vez por ano**, de preferência no mês de **dezembro**.",
+        "fonte": "NSCGJ, art. 8º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-NCGJ-02",
+        "f": "Com que antecedência é anunciada por edital a correição ordinária?",
+        "b": "Com pelo menos **15 dias** de antecedência: edital no átrio do fórum, publicação no DJE e comunicação à OAB.",
+        "fonte": "NSCGJ, art. 8º, § 1º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-03",
+        "f": "Assumida a corregedoria permanente em caráter definitivo, em quanto tempo o juiz faz a visita correcional?",
+        "b": "Em até **30 dias**. A visita **independe de edital**.",
+        "fonte": "NSCGJ, art. 9º, caput e § 1º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-04",
+        "f": "Qual o prazo para enviar à Corregedoria Geral a ata da correição ordinária? E a da extraordinária ou visita?",
+        "b": "Ordinária: até **60 dias** após realizada. Extraordinária ou visita correcional: até **15 dias**.\nPegadinha: inverter os dois prazos.",
+        "fonte": "NSCGJ, art. 6º, § 4º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-05",
+        "f": "A correição extraordinária depende de anúncio prévio?",
+        "b": "Não. É fiscalização excepcional, feita **a qualquer momento e sem prévio anúncio**, geral ou parcial.",
+        "fonte": "NSCGJ, art. 6º, § 2º",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-NCGJ-06",
+        "f": "Com que periodicidade são visitados os estabelecimentos prisionais sujeitos à correição do juízo?",
+        "b": "**Uma vez por mês** (art. 66, VII, da LEP).",
+        "fonte": "NSCGJ, art. 13",
+        "t": "numero"
+      },
+      {
+        "id": "esc-NCGJ-07",
+        "f": "Com que frequência os escrivães do distribuidor e dos ofícios fazem auditoria no sistema informatizado?",
+        "b": "Auditoria **semanal**, conforme os níveis de criticidade, comunicando irregularidades à Corregedoria Geral.",
+        "fonte": "NSCGJ, art. 51",
+        "t": "numero"
+      },
+      {
+        "id": "esc-NCGJ-08",
+        "f": "Recebida a petição inicial ou a denúncia, em quanto tempo o ofício de justiça faz a autuação?",
+        "b": "Em **24 horas**. É dispensada certidão da autuação e do registro no interior dos autos.",
+        "fonte": "NSCGJ, art. 87",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-09",
+        "f": "Quantas folhas, no máximo, tem cada volume dos autos?",
+        "b": "**200 folhas**, salvo determinação judicial ou para manter peça processual junto de seus documentos.",
+        "fonte": "NSCGJ, art. 89",
+        "t": "numero"
+      },
+      {
+        "id": "esc-NCGJ-10",
+        "f": "Qual o prazo do cartório para fazer a conclusão dos autos e para executar os atos processuais?",
+        "b": "Conclusão: **1 dia**. Execução dos atos processuais: **5 dias**.",
+        "fonte": "NSCGJ, art. 97",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-11",
+        "f": "Por quanto tempo, no máximo, o processo pode ficar sem andamento à espera de diligência? E depois?",
+        "b": "**30 dias**. Depois, o ofício **reitera a diligência uma única vez**; sem resposta, abre conclusão ao juiz.",
+        "fonte": "NSCGJ, art. 99",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-12",
+        "f": "Por quanto tempo são conservadas as guias de recolhimento de diligências do oficial de justiça?",
+        "b": "Prazo mínimo de **2 anos**, contados do **arquivamento**.",
+        "fonte": "NSCGJ, art. 79",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-13",
+        "f": "A quem compete expedir certidões em breve relatório ou de inteiro teor?",
+        "b": "**Exclusivamente aos ofícios de justiça**.\nPegadinha: incluir o distribuidor ou tirar o \"exclusivamente\".",
+        "fonte": "NSCGJ, art. 104",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-NCGJ-14",
+        "f": "Qual o prazo para o ofício de justiça expedir certidão em breve relatório ou de inteiro teor?",
+        "b": "**5 dias**, contados do **recebimento do pedido pelo ofício** de justiça.\nPegadinha: contar do protocolo feito pela parte.",
+        "fonte": "NSCGJ, art. 104, § 2º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-15",
+        "f": "Pedido de certidão de objeto e pé por e-mail institucional de um ofício para outro: qual o prazo?",
+        "b": "**5 dias úteis**.\nPegadinha: suprimir o \"úteis\".",
+        "fonte": "NSCGJ, art. 104, § 3º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-16",
+        "f": "Qual o prazo para expedir certidão de teor da decisão para fins de protesto extrajudicial?",
+        "b": "**3 dias**, contados do recebimento do pedido pelo ofício.\nPegadinha: igualar aos 5 dias da certidão comum.",
+        "fonte": "NSCGJ, art. 104-A, § 1º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-17",
+        "f": "Em quantas vias é confeccionada a carta precatória?",
+        "b": "Em **3 vias**, uma delas servindo de contrafé.",
+        "fonte": "NSCGJ, art. 122",
+        "t": "numero"
+      },
+      {
+        "id": "esc-NCGJ-18",
+        "f": "Parte com mais de um advogado: quantos nomes pode indicar para constar nas intimações pela imprensa?",
+        "b": "No máximo **2 nomes**, ou o nome da **sociedade de advogados**.",
+        "fonte": "NSCGJ, art. 135, I",
+        "t": "numero"
+      },
+      {
+        "id": "esc-NCGJ-19",
+        "f": "Com que antecedência o servidor examina os processos com audiência designada?",
+        "b": "**10 dias** antes, para verificar se foram feitas as intimações e requisições de partes e testemunhas.",
+        "fonte": "NSCGJ, art. 148",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-20",
+        "f": "Por quanto tempo é concedida a carga rápida e até quando pode ser pedida?",
+        "b": "Por **1 hora**. O pedido deve ser feito até **1 hora antes** do término do expediente forense.",
+        "fonte": "NSCGJ, art. 165, caput e I",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-21",
+        "f": "Intimado pessoalmente, em quantos dias o advogado deve devolver os autos e qual a sanção se não devolver?",
+        "b": "**3 dias**. Perde o direito à vista fora de cartório e paga multa de **metade do salário mínimo**.",
+        "fonte": "NSCGJ, art. 167",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-22",
+        "f": "Advogado sem procuração pode fazer carga de processo findo? Por quanto tempo?",
+        "b": "Sim, se o processo **não estiver em segredo de justiça**, pelo prazo de **10 dias**.",
+        "fonte": "NSCGJ, art. 161",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-NCGJ-23",
+        "f": "Até quando o escrivão verifica, mensalmente, os prazos de devolução de autos retirados?",
+        "b": "Até o **10º dia útil** do mês subsequente.\nPegadinha: trocar por 5º dia útil.",
+        "fonte": "NSCGJ, art. 168",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-24",
+        "f": "Publicada a decisão de arquivamento, quanto tempo o processo fica no ofício antes de ser arquivado?",
+        "b": "**30 dias**.",
+        "fonte": "NSCGJ, art. 177",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-25",
+        "f": "Execução de título judicial sem bens do executado: após quanto tempo cabe o arquivo provisório?",
+        "b": "Em fase de execução há **mais de 1 ano**, mantido o nome das partes no Distribuidor.",
+        "fonte": "NSCGJ, art. 179",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-26",
+        "f": "Qual o padrão de certificação digital exigido no processo eletrônico do TJSP?",
+        "b": "**ICP-Brasil, Padrão A3**.\nPegadinha: trocar por Padrão A1.",
+        "fonte": "NSCGJ, art. 1.192",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-NCGJ-27",
+        "f": "Até que horário a petição eletrônica é tempestiva no último dia do prazo?",
+        "b": "Até as **24 horas**, pela **hora oficial de Brasília**.\nPegadinha: trocar pelo fim do expediente forense.",
+        "fonte": "NSCGJ, art. 1.198, § 1º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-NCGJ-28",
+        "f": "Que indisponibilidade do sistema entre 6h e 23h prorroga o prazo que vence naquele dia?",
+        "b": "A **superior a 60 minutos**, ininterruptos ou não. Entre 23h e 24h, qualquer indisponibilidade prorroga.",
+        "fonte": "NSCGJ, art. 1.205, I",
+        "t": "numero"
+      },
+      {
+        "id": "esc-NCGJ-29",
+        "f": "O que caracteriza a indisponibilidade severa do sistema?",
+        "b": "Falha, lentidão ou intermitência **superior a 3 horas**, ininterruptas ou não, **entre 9h e 19h**, em dias úteis.",
+        "fonte": "NSCGJ, art. 1.205-A",
+        "t": "numero"
+      },
+      {
+        "id": "esc-NCGJ-30",
+        "f": "Quem pode consultar processo eletrônico que tramita em segredo de justiça?",
+        "b": "Só **as partes e os procuradores habilitados** a atuar no processo.",
+        "fonte": "NSCGJ, art. 1.225",
+        "t": "regra"
+      }
+    ]
+  },
+  {
+    "id": "RL",
+    "nome": "Raciocínio Lógico",
+    "cards": [
+      {
+        "id": "esc-RL-01",
+        "f": "Qual é a negação de “Se p, então q”?",
+        "b": "**p e não q** (p ∧ ~q): mantém o antecedente, nega o consequente e troca por E.\nPegadinha: “Se não p, então não q” é a inversa, não a negação.",
+        "fonte": "Negação do condicional (Resumo m12)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-02",
+        "f": "Qual proposição equivale a “Se p, então q” pela contrapositiva?",
+        "b": "**Se não q, então não p** (~q → ~p).\nPegadinha: a recíproca (q → p) não é equivalente.",
+        "fonte": "Contrapositiva (Resumo m12)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-03",
+        "f": "Que equivalência de “Se p, então q” usa o conectivo OU?",
+        "b": "**Não p ou q** (~p ∨ q).\nPegadinha: “p ou não q” não é equivalente.",
+        "fonte": "Condicional e disjunção (Resumo m12)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-04",
+        "f": "“Os garfos têm quatro pontas ou as facas não são afiadas” equivale a qual condicional?",
+        "b": "**Se os garfos não têm quatro pontas, então as facas não são afiadas** (p ∨ q ≡ ~p → q). Também equivale: se as facas são afiadas, então os garfos têm quatro pontas.",
+        "fonte": "Disjunção e condicional (TJSP 2024) (Resumo m12)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-05",
+        "f": "Qual a negação de “p e q” (De Morgan)?",
+        "b": "**Não p ou não q**: nega as duas partes e troca E por OU.\nPegadinha: negar as partes e manter o conectivo.",
+        "fonte": "De Morgan: negação da conjunção (Resumo m12)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-06",
+        "f": "Qual a negação de “p ou q” (De Morgan)?",
+        "b": "**Não p e não q**: nega as duas partes e troca OU por E.",
+        "fonte": "De Morgan: negação da disjunção (Resumo m12)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-07",
+        "f": "Quando a condicional p → q é falsa?",
+        "b": "Só quando **p é V e q é F**. Com antecedente falso, a condicional é sempre verdadeira.",
+        "fonte": "Tabela-verdade do condicional (Resumo m12)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-08",
+        "f": "Se a disjunção “p ou q” é FALSA, o que se conclui sobre p e q?",
+        "b": "**Ambas são falsas**: é a única combinação que torna a disjunção falsa.",
+        "fonte": "Disjunção falsa (Resumo m27)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-09",
+        "f": "Quando a bicondicional p ↔ q é falsa?",
+        "b": "Quando p e q têm **valores lógicos diferentes**.",
+        "fonte": "Bicondicional falsa (Resumo m27)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-10",
+        "f": "Qual a negação de “p se e somente se q”?",
+        "b": "**Ou p ou q** (disjunção exclusiva).\nPegadinha: a negação da disjunção exclusiva é a bicondicional, não outra exclusiva.",
+        "fonte": "Negação da bicondicional (Resumo m12)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-11",
+        "f": "Quantas linhas tem a tabela-verdade com 5 proposições simples?",
+        "b": "**32 linhas** (2ⁿ). Com 4 proposições são 16; com 7, 128.",
+        "fonte": "Tabela-verdade: número de linhas (Resumo m12)",
+        "t": "numero"
+      },
+      {
+        "id": "esc-RL-12",
+        "f": "Qual a contrapositiva de “Se p, então q e r”?",
+        "b": "**Se não q ou não r, então não p**: ao negar o consequente, a conjunção vira disjunção (De Morgan).\nPegadinha: manter o E ao negar o consequente.",
+        "fonte": "Contrapositiva com conjunção (Resumo m12)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-RL-13",
+        "f": "“Se p, então q” é verdadeira e “p e q” é falsa. Que valor lógico tem p?",
+        "b": "**p é falsa**. Se p fosse V, q também seria V e a conjunção seria verdadeira.",
+        "fonte": "Condicional verdadeira e conjunção falsa (Resumo m12)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-14",
+        "f": "Premissas: “Se chove, levo guarda-chuva” e “Está chovendo”. Que regra autoriza concluir “levo guarda-chuva”?",
+        "b": "**Modus Ponens**: afirmando o antecedente, conclui-se o consequente.",
+        "fonte": "Argumentação: Modus Ponens (Resumo m27)",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-RL-15",
+        "f": "Premissas: p → q e “não q”. O que se conclui?",
+        "b": "**Não p**, pelo **Modus Tollens**: negar o consequente leva à negação do antecedente.",
+        "fonte": "Argumentação: Modus Tollens (Resumo m27)",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-RL-16",
+        "f": "“Se p, então q; q é verdadeira; logo, p é verdadeira.” O argumento é válido?",
+        "b": "Não. É a falácia da **afirmação do consequente**: q pode ser verdadeira por outra razão.",
+        "fonte": "Falácia: afirmação do consequente (Resumo m27)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-RL-17",
+        "f": "“Se p, então q; p é falsa; logo, q é falsa.” O argumento é válido?",
+        "b": "Não. É a falácia da **negação do antecedente**: q ainda pode ser verdadeira.",
+        "fonte": "Falácia: negação do antecedente (Resumo m27)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-RL-18",
+        "f": "Um argumento com premissas falsas pode ser válido?",
+        "b": "**Sim**. Validade é formal: basta que a conclusão decorra necessariamente das premissas, verdadeiras ou não.",
+        "fonte": "Argumento válido (Resumo m27)",
+        "t": "conceito"
+      },
+      {
+        "id": "esc-RL-19",
+        "f": "“Aldo é bravo ou Beto é tranquilo” é verdadeira, e Aldo não é bravo. O que se conclui?",
+        "b": "**Beto é tranquilo** (silogismo disjuntivo): com p ∨ q verdadeira e p falsa, q é verdadeira.",
+        "fonte": "Silogismo disjuntivo (Resumo m27)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-20",
+        "f": "Se A → B e B → C, que conclusão é válida?",
+        "b": "**A → C** (silogismo hipotético). Sabendo não C, conclui-se não B e não A, em cadeia.",
+        "fonte": "Cadeia de condicionais (Resumo m27)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-21",
+        "f": "Qual a negação de “Todo A é B”?",
+        "b": "**Algum A não é B** (existe A que não é B).\nPegadinha: “Nenhum A é B” não é a negação.",
+        "fonte": "Negação de quantificadores: todo (Resumo m65)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-RL-22",
+        "f": "Qual a negação de “Nenhum A é B”?",
+        "b": "**Algum A é B** (existe A que é B).",
+        "fonte": "Negação de quantificadores: nenhum (Resumo m65)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-23",
+        "f": "Qual a negação de “Algum A é B”?",
+        "b": "**Nenhum A é B**.",
+        "fonte": "Negação de quantificadores: algum (Resumo m65)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-24",
+        "f": "De “Todos os alunos de Fulano foram aprovados”, o que se conclui necessariamente?",
+        "b": "**Quem não foi aprovado não é aluno de Fulano** (contrapositiva).\nPegadinha: concluir que todo aprovado é aluno de Fulano.",
+        "fonte": "Diagramas lógicos (TJSP 2017) (Resumo m65)",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-RL-25",
+        "f": "Todo A é B e nenhum C é B. Qual a relação entre A e C?",
+        "b": "**Nenhum A é C**: A está dentro de B, e B não tem interseção com C.",
+        "fonte": "Diagramas lógicos: encadeamento (Resumo m65)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-26",
+        "f": "“Nem todo A é B” equivale a quê?",
+        "b": "**Algum A não é B**.",
+        "fonte": "Quantificadores: nem todo (Resumo m65)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-27",
+        "f": "Sequência formada pela repetição de SERGIPE (7 letras): como achar a 1000ª letra?",
+        "b": "Divida a posição pelo tamanho do bloco: 1000 ÷ 7 deixa **resto 6**, logo a 6ª letra, **P**. Resto 0 indica a última letra do bloco.",
+        "fonte": "Sequências: método do resto (Resumo m65)",
+        "t": "regra"
+      },
+      {
+        "id": "esc-RL-28",
+        "f": "Qual o termo geral de uma progressão aritmética (PA)?",
+        "b": "**aₙ = a₁ + (n − 1)·r**. Ex.: na PA (2, 4, 6, ...), a₅₀ = 2 + 49·2 = 100.",
+        "fonte": "Sequências: termo geral da PA (Resumo m65)",
+        "t": "formula"
+      },
+      {
+        "id": "esc-RL-29",
+        "f": "Qual a fórmula da soma dos n primeiros termos de uma PA?",
+        "b": "**Sₙ = (a₁ + aₙ)·n ÷ 2**.",
+        "fonte": "Sequências: soma da PA (Resumo m65)",
+        "t": "formula"
+      },
+      {
+        "id": "esc-RL-30",
+        "f": "Qual o termo geral de uma progressão geométrica (PG)?",
+        "b": "**aₙ = a₁·qⁿ⁻¹**: cada termo é o anterior multiplicado pela razão q.",
+        "fonte": "Sequências: termo geral da PG (Resumo m65)",
+        "t": "formula"
+      }
+    ]
+  },
+  {
+    "id": "o-DA",
+    "nome": "Lacunas · Direito Administrativo",
+    "tipo": "o",
+    "cards": [
+      {
+        "id": "esc-oDA-01",
+        "x": "A posse deverá verificar-se no prazo de {{30 (trinta) dias::15 (quinze) dias ou 30 (trinta) dias?}}, contados da data da publicação do ato de provimento do cargo, no órgão oficial.",
+        "fonte": "Lei 10.261/68, art. 52",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDA-02",
+        "x": "Se o cargo estiver preenchido, o seu ocupante será exonerado, ou, se ocupava outro cargo, a este será reconduzido, {{sem direito::com direito ou sem direito?}} a indenização.",
+        "fonte": "Lei 10.261/68, art. 31, § 1º",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDA-03",
+        "x": "O funcionário que não entrar em exercício dentro do prazo será {{exonerado::demitido ou exonerado?}}.",
+        "fonte": "Lei 10.261/68, art. 60, § 4º",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oDA-04",
+        "x": "Ao servidor é assegurado o direito de requerer ou representar, bem como, nos termos desta lei complementar, pedir reconsideração e recorrer de decisões, no prazo de {{30 (trinta) dias::15 (quinze) dias ou 30 (trinta) dias?}}, salvo previsão legal específica.",
+        "fonte": "Lei 10.261/68, art. 240",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDA-05",
+        "x": "A pena de suspensão, que não excederá de {{90 (noventa) dias::60 (sessenta) dias ou 90 (noventa) dias?}}, será aplicada em caso de falta grave ou de reincidência.",
+        "fonte": "Lei 10.261/68, art. 254",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDA-06",
+        "x": "Considerar-se-á inassiduidade a ausência ao serviço, sem causa justificável, por mais de {{15 (quinze)::15 (quinze) ou 30 (trinta)?}} dias consecutivos, ou por mais de 20 (vinte) dias úteis intercalados, durante 1 (um) ano.",
+        "fonte": "Lei 10.261/68, art. 256, § 1º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDA-07",
+        "x": "da falta sujeita à pena de repreensão, suspensão ou multa, em {{2 (dois) anos::2 (dois) anos ou 5 (cinco) anos?}}",
+        "fonte": "Lei 10.261/68, art. 261, I",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDA-08",
+        "x": "afastamento preventivo do servidor, quando o recomendar a moralidade administrativa ou a apuração do fato, sem prejuízo de vencimentos ou vantagens, até 180 (cento e oitenta) dias, prorrogáveis {{uma única vez::sucessivamente ou uma única vez?}} por igual período",
+        "fonte": "Lei 10.261/68, art. 266, I",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDA-09",
+        "x": "Será instaurada {{sindicância::processo administrativo ou sindicância?}} quando a falta disciplinar, por sua natureza, possa determinar as penas de repreensão, suspensão ou multa.",
+        "fonte": "Lei 10.261/68, art. 269",
+        "t": "regra"
+      },
+      {
+        "id": "esc-oDA-10",
+        "x": "O processo administrativo deverá ser instaurado por portaria, no prazo improrrogável de {{8 (oito) dias::8 (oito) dias ou 10 (dez) dias?}} do recebimento da determinação, e concluído no de 90 (noventa) dias da citação do acusado.",
+        "fonte": "Lei 10.261/68, art. 277",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDA-11",
+        "x": "Os recursos de que trata esta lei complementar {{não têm::não têm ou têm?}} efeito suspensivo; os que forem providos darão lugar às retificações necessárias, retroagindo seus efeitos à data do ato punitivo.",
+        "fonte": "Lei 10.261/68, art. 314",
+        "t": "regra"
+      },
+      {
+        "id": "esc-oDA-12",
+        "x": "Consideram-se atos de improbidade administrativa as condutas {{dolosas::culposas ou dolosas?}} tipificadas nos arts. 9º, 10 e 11 desta Lei, ressalvados tipos previstos em leis especiais.",
+        "fonte": "Lei 8.429/92, art. 1º, § 1º",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oDA-13",
+        "x": "na hipótese do art. 11 desta Lei, pagamento de multa civil de até {{24 (vinte e quatro)::12 (doze) ou 24 (vinte e quatro)?}} vezes o valor da remuneração percebida pelo agente",
+        "fonte": "Lei 8.429/92, art. 12, III",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDA-14",
+        "x": "A perda da função pública e a suspensão dos direitos políticos só se efetivam com o {{trânsito em julgado::acórdão de segundo grau ou trânsito em julgado?}} da sentença condenatória.",
+        "fonte": "Lei 8.429/92, art. 20",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDA-15",
+        "x": "A ação para a aplicação das sanções previstas nesta Lei prescreve em {{8 (oito) anos::5 (cinco) anos ou 8 (oito) anos?}}, contados a partir da ocorrência do fato ou, no caso de infrações permanentes, do dia em que cessou a permanência.",
+        "fonte": "Lei 8.429/92, art. 23",
+        "t": "prazo"
+      }
+    ]
+  },
+  {
+    "id": "o-DC",
+    "nome": "Lacunas · Direito Constitucional",
+    "tipo": "o",
+    "cards": [
+      {
+        "id": "esc-oDC-01",
+        "x": "a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, {{durante o dia::à noite ou durante o dia?}}, por determinação judicial",
+        "fonte": "CF, art. 5º, XI",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oDC-02",
+        "x": "todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio {{aviso::autorização ou aviso?}} à autoridade competente",
+        "fonte": "CF, art. 5º, XVI",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDC-03",
+        "x": "as associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no {{primeiro::primeiro ou segundo?}} caso, o trânsito em julgado",
+        "fonte": "CF, art. 5º, XIX",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDC-04",
+        "x": "a prática do racismo constitui crime inafiançável e {{imprescritível::imprescritível ou insuscetível de graça ou anistia?}}, sujeito à pena de reclusão, nos termos da lei",
+        "fonte": "CF, art. 5º, XLII",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oDC-05",
+        "x": "nenhum brasileiro será extraditado, salvo o naturalizado, em caso de crime comum, praticado {{antes::antes ou depois?}} da naturalização, ou de comprovado envolvimento em tráfico ilícito de entorpecentes e drogas afins, na forma da lei",
+        "fonte": "CF, art. 5º, LI",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-oDC-06",
+        "x": "qualquer {{cidadão::cidadão ou pessoa?}} é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público",
+        "fonte": "CF, art. 5º, LXXIII",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-oDC-07",
+        "x": "Os tratados e convenções internacionais sobre direitos humanos que forem aprovados, em cada Casa do Congresso Nacional, em dois turnos, por {{três quintos::dois terços ou três quintos?}} dos votos dos respectivos membros, serão equivalentes às emendas constitucionais.",
+        "fonte": "CF, art. 5º, § 3º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDC-08",
+        "x": "duração do trabalho normal não superior a 8 (oito) horas diárias e {{40 (quarenta)::40 (quarenta) ou 44 (quarenta e quatro)?}} horas semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho",
+        "fonte": "CF, art. 7º, XIII (EC 141/2026)",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDC-09",
+        "x": "com prazo prescricional de cinco anos para os trabalhadores urbanos e rurais, até o limite de {{dois anos::dois anos ou cinco anos?}} após a extinção do contrato de trabalho",
+        "fonte": "CF, art. 7º, XXIX",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDC-10",
+        "x": "é vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até {{um ano::seis meses ou um ano?}} após o final do mandato, salvo se cometer falta grave nos termos da lei.",
+        "fonte": "CF, art. 8º, VIII",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDC-11",
+        "x": "os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de {{quinze anos::dez anos ou quinze anos?}} ininterruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira.",
+        "fonte": "CF, art. 12, II, b",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDC-12",
+        "x": "o prazo de validade do concurso público será de até {{dois anos::dois anos ou quatro anos?}}, prorrogável uma vez, por igual período",
+        "fonte": "CF, art. 37, III",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDC-13",
+        "x": "a de um cargo de professor com outro {{de qualquer natureza::de qualquer natureza, ou técnico ou científico?}}",
+        "fonte": "CF, art. 37, XVI, b (EC 138/2025)",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oDC-14",
+        "x": "em qualquer caso que exija o afastamento para o exercício de mandato eletivo, seu tempo de serviço será contado para todos os efeitos legais, exceto para promoção por {{merecimento::antiguidade ou merecimento?}}",
+        "fonte": "CF, art. 38, IV",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-oDC-15",
+        "x": "São estáveis após {{três anos::dois anos ou três anos?}} de efetivo exercício os servidores nomeados para cargo de provimento efetivo em virtude de concurso público.",
+        "fonte": "CF, art. 41",
+        "t": "prazo"
+      }
+    ]
+  },
+  {
+    "id": "o-DP",
+    "nome": "Lacunas · Direito Penal",
+    "tipo": "o",
+    "cards": [
+      {
+        "id": "esc-oDP-01",
+        "x": "Se o agente é funcionário público, e comete o crime prevalecendo-se do cargo, aumenta-se a pena de {{sexta parte::sexta parte ou terça parte?}}.",
+        "fonte": "CP, art. 295",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDP-02",
+        "x": "Para fins do disposto no caput, equipara-se a documento {{particular::particular ou público?}} o cartão de crédito ou débito.",
+        "fonte": "CP, art. 298, parágrafo único",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDP-03",
+        "x": "Atribuir-se ou atribuir a terceiro falsa identidade para obter vantagem, em proveito próprio ou alheio, ou para causar dano a outrem: … Pena - {{detenção::detenção ou reclusão?}}, de três meses a um ano, ou multa, se o fato não constitui elemento de crime mais grave.",
+        "fonte": "CP, art. 307",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oDP-04",
+        "x": "Aumenta-se a pena de {{1/3 (um terço)::1/3 (um terço) ou 1/6 (um sexto)?}} se o fato é cometido por funcionário público.",
+        "fonte": "CP, art. 311-A, § 3º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDP-05",
+        "x": "No caso do parágrafo anterior, a reparação do dano, se precede à sentença irrecorrível, extingue a punibilidade; se lhe é posterior, reduz de {{metade::metade ou um terço?}} a pena imposta.",
+        "fonte": "CP, art. 312, § 3º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDP-06",
+        "x": "Inserir ou facilitar, o funcionário {{autorizado::autorizado ou não autorizado?}}, a inserção de dados falsos, alterar ou excluir indevidamente dados corretos nos sistemas informatizados ou bancos de dados da Administração Pública",
+        "fonte": "CP, art. 313-A",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDP-07",
+        "x": "{{Exigir::Exigir ou Solicitar?}}, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida",
+        "fonte": "CP, art. 316",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oDP-08",
+        "x": "Deixar o funcionário, por {{indulgência::indulgência ou interesse pessoal?}}, de responsabilizar subordinado que cometeu infração no exercício do cargo",
+        "fonte": "CP, art. 320",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oDP-09",
+        "x": "A pena será aumentada da {{terça parte::sexta parte ou terça parte?}} quando os autores dos crimes previstos neste Capítulo forem ocupantes de cargos em comissão ou de função de direção ou assessoramento",
+        "fonte": "CP, art. 327, § 2º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDP-10",
+        "x": "Se do fato o agente aufere vantagem: … Pena - {{reclusão::detenção ou reclusão?}}, de dois a cinco anos, e multa.",
+        "fonte": "CP, art. 328, parágrafo único",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oDP-11",
+        "x": "A pena é aumentada da {{metade::metade ou um terço?}}, se o agente alega ou insinua que a vantagem é também destinada ao funcionário.",
+        "fonte": "CP, art. 332, parágrafo único",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDP-12",
+        "x": "A pena é diminuída de {{metade::metade ou sexta parte?}}, se a imputação é de prática de contravenção.",
+        "fonte": "CP, art. 339, § 2º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDP-13",
+        "x": "O fato deixa de ser punível se, antes da {{sentença::denúncia ou sentença?}} no processo em que ocorreu o ilícito, o agente se retrata ou declara a verdade.",
+        "fonte": "CP, art. 342, § 2º",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDP-14",
+        "x": "Se não há emprego de violência, somente se procede mediante {{queixa::queixa ou representação?}}.",
+        "fonte": "CP, art. 345, parágrafo único",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-oDP-15",
+        "x": "Se a inovação se destina a produzir efeito em processo penal, ainda que não iniciado, as penas aplicam-se em {{dobro::dobro ou triplo?}}.",
+        "fonte": "CP, art. 347, parágrafo único",
+        "t": "numero"
+      }
+    ]
+  },
+  {
+    "id": "o-DPC",
+    "nome": "Lacunas · Direito Processual Civil",
+    "tipo": "o",
+    "cards": [
+      {
+        "id": "esc-oDPC-01",
+        "x": "No prazo de {{15 (quinze) dias::5 (cinco) dias ou 15 (quinze) dias?}}, a contar do conhecimento do fato, a parte alegará o impedimento ou a suspeição, em petição específica dirigida ao juiz do processo",
+        "fonte": "CPC, art. 146",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDPC-02",
+        "x": "O escrivão ou o chefe de secretaria atenderá, {{preferencialmente::obrigatoriamente ou preferencialmente?}}, à ordem cronológica de recebimento para publicação e efetivação dos pronunciamentos judiciais.",
+        "fonte": "CPC, art. 153",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDPC-03",
+        "x": "Os atos e os termos processuais {{independem::dependem ou independem?}} de forma determinada, salvo quando a lei expressamente a exigir",
+        "fonte": "CPC, art. 188",
+        "t": "regra"
+      },
+      {
+        "id": "esc-oDPC-04",
+        "x": "Os atos processuais serão realizados em dias úteis, das 6 (seis) às {{20 (vinte) horas::18 (dezoito) horas ou 20 (vinte) horas?}}.",
+        "fonte": "CPC, art. 212",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDPC-05",
+        "x": "Na contagem de prazo em dias, estabelecido por lei ou pelo juiz, computar-se-ão somente os dias {{úteis::corridos ou úteis?}}.",
+        "fonte": "CPC, art. 219",
+        "t": "regra"
+      },
+      {
+        "id": "esc-oDPC-06",
+        "x": "Na comarca, seção ou subseção judiciária onde for difícil o transporte, o juiz poderá prorrogar os prazos por até {{2 (dois) meses::1 (um) mês ou 2 (dois) meses?}}.",
+        "fonte": "CPC, art. 222",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDPC-07",
+        "x": "A citação válida, ainda quando ordenada por juízo {{incompetente::competente ou incompetente?}}, induz litispendência, torna litigiosa a coisa e constitui em mora o devedor",
+        "fonte": "CPC, art. 240",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDPC-08",
+        "x": "A tutela antecipada, concedida nos termos do art. 303, torna-se {{estável::definitiva ou estável?}} se da decisão que a conceder não for interposto o respectivo recurso.",
+        "fonte": "CPC, art. 304",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oDPC-09",
+        "x": "Efetivada a tutela cautelar, o pedido principal terá de ser formulado pelo autor no prazo de {{30 (trinta) dias::15 (quinze) dias ou 30 (trinta) dias?}}",
+        "fonte": "CPC, art. 308",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDPC-10",
+        "x": "o juiz designará audiência de conciliação ou de mediação com antecedência mínima de {{30 (trinta) dias::20 (vinte) dias ou 30 (trinta) dias?}}",
+        "fonte": "CPC, art. 334",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDPC-11",
+        "x": "A falsidade deve ser suscitada na contestação, na réplica ou no prazo de {{15 (quinze) dias::10 (dez) dias ou 15 (quinze) dias?}}, contado a partir da intimação da juntada do documento aos autos.",
+        "fonte": "CPC, art. 430",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDPC-12",
+        "x": "Os embargos serão opostos, no prazo de {{5 (cinco) dias::5 (cinco) dias ou 15 (quinze) dias?}}, em petição dirigida ao juiz, com indicação do erro, obscuridade, contradição ou omissão, e não se sujeitam a preparo.",
+        "fonte": "CPC, art. 1.023",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDPC-13",
+        "x": "Os embargos de declaração não possuem efeito suspensivo e {{interrompem::interrompem ou suspendem?}} o prazo para a interposição de recurso.",
+        "fonte": "CPC, art. 1.026",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDPC-14",
+        "x": "Nas causas de valor até {{vinte::quarenta ou vinte?}} salários mínimos, as partes comparecerão pessoalmente, podendo ser assistidas por advogado; nas de valor superior, a assistência é obrigatória.",
+        "fonte": "Lei 9.099/95, art. 9º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDPC-15",
+        "x": "É de competência dos Juizados Especiais da Fazenda Pública processar, conciliar e julgar causas cíveis de interesse dos Estados, do Distrito Federal, dos Territórios e dos Municípios, até o valor de {{60 (sessenta)::40 (quarenta) ou 60 (sessenta)?}} salários mínimos.",
+        "fonte": "Lei 12.153/2009, art. 2º",
+        "t": "numero"
+      }
+    ]
+  },
+  {
+    "id": "o-DPP",
+    "nome": "Lacunas · Direito Processual Penal",
+    "tipo": "o",
+    "cards": [
+      {
+        "id": "esc-oDPP-01",
+        "x": "Nos juízos coletivos, não poderão servir no mesmo processo os juízes que forem entre si parentes, consangüíneos ou afins, em linha reta ou colateral até o {{terceiro::segundo ou terceiro?}} grau, inclusive.",
+        "fonte": "CPP, art. 253",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDPP-02",
+        "x": "A suspeição {{não poderá::não poderá ou poderá?}} ser declarada nem reconhecida, quando a parte injuriar o juiz ou de propósito der motivo para criá-la.",
+        "fonte": "CPP, art. 256",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-oDPP-03",
+        "x": "O defensor não poderá abandonar o processo sem justo motivo, {{previamente::posteriormente ou previamente?}} comunicado ao juiz, sob pena de responder por infração disciplinar perante o órgão correicional competente.",
+        "fonte": "CPP, art. 265",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oDPP-04",
+        "x": "Se o réu não for encontrado, será citado por edital, com o prazo de {{15 (quinze) dias::10 (dez) dias, 15 (quinze) dias ou 30 (trinta) dias?}}.",
+        "fonte": "CPP, art. 361",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDPP-05",
+        "x": "Verificando que o réu se oculta para não ser citado, o oficial de justiça certificará a ocorrência e procederá à citação com {{hora certa::edital ou hora certa?}}",
+        "fonte": "CPP, art. 362",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oDPP-06",
+        "x": "Se o acusado, citado por edital, não comparecer, nem constituir advogado, ficarão {{suspensos::interrompidos ou suspensos?}} o processo e o curso do prazo prescricional",
+        "fonte": "CPP, art. 366",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDPP-07",
+        "x": "o juiz, se não a rejeitar liminarmente, recebê-la-á e ordenará a citação do acusado para responder à acusação, por escrito, no prazo de {{10 (dez) dias::5 (cinco) dias, 10 (dez) dias ou 15 (quinze) dias?}}.",
+        "fonte": "CPP, art. 396",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDPP-08",
+        "x": "Na audiência de instrução e julgamento, a ser realizada no prazo máximo de {{60 (sessenta) dias::30 (trinta) dias ou 60 (sessenta) dias?}}, proceder-se-á à tomada de declarações do ofendido",
+        "fonte": "CPP, art. 400",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDPP-09",
+        "x": "serão oferecidas alegações finais orais por {{20 (vinte) minutos::10 (dez) minutos ou 20 (vinte) minutos?}}, respectivamente, pela acusação e pela defesa, prorrogáveis por mais 10 (dez), proferindo o juiz, a seguir, sentença.",
+        "fonte": "CPP, art. 403",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oDPP-10",
+        "x": "Contra a sentença de impronúncia ou de absolvição sumária caberá {{apelação::apelação ou recurso em sentido estrito?}}.",
+        "fonte": "CPP, art. 416",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oDPP-11",
+        "x": "O Tribunal do Júri é composto por 1 (um) juiz togado, seu presidente e por {{25 (vinte e cinco)::21 (vinte e um) ou 25 (vinte e cinco)?}} jurados que serão sorteados dentre os alistados",
+        "fonte": "CPP, art. 447",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDPP-12",
+        "x": "Os causadores de extravio de autos responderão pelas custas, em {{dobro::dobro ou triplo?}}, sem prejuízo da responsabilidade criminal.",
+        "fonte": "CPP, art. 546",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDPP-13",
+        "x": "Salvo a hipótese de {{má-fé::boa-fé ou má-fé?}}, a parte não será prejudicada pela interposição de um recurso por outro.",
+        "fonte": "CPP, art. 579",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-oDPP-14",
+        "x": "Consideram-se infrações penais de menor potencial ofensivo, para os efeitos desta Lei, as contravenções penais e os crimes a que a lei comine pena máxima não superior a {{2 (dois) anos::1 (um) ano ou 2 (dois) anos?}}, cumulada ou não com multa.",
+        "fonte": "Lei 9.099/95, art. 61",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oDPP-15",
+        "x": "Nos crimes em que a pena {{mínima::máxima ou mínima?}} cominada for igual ou inferior a um ano, abrangidas ou não por esta Lei, o Ministério Público, ao oferecer a denúncia, poderá propor a suspensão do processo",
+        "fonte": "Lei 9.099/95, art. 89",
+        "t": "pegadinha"
+      }
+    ]
+  },
+  {
+    "id": "o-LI",
+    "nome": "Lacunas · Legislação Interna do TJSP",
+    "tipo": "o",
+    "cards": [
+      {
+        "id": "esc-oLI-01",
+        "x": "nas unidades de primeiro grau, com exceção dos gabinetes, a quantidade de servidores(as) em teletrabalho, por unidade, será de até {{50% (cinquenta por cento)::50% (cinquenta por cento) ou 70% (setenta por cento)?}} do quadro",
+        "fonte": "Res. TJSP 850/2021, art. 9º, III",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oLI-02",
+        "x": "tenham sofrido penalidade disciplinar nos {{2 (dois) anos::1 (um) ano, 2 (dois) anos ou 3 (três) anos?}} anteriores à solicitação",
+        "fonte": "Res. TJSP 850/2021, art. 11, II",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oLI-03",
+        "x": "A produtividade do(a) servidor(a) em teletrabalho deverá ser {{superior::\"igual ou superior\" ou \"superior\"?}} à produtividade aferida na atividade presencial da unidade de trabalho.",
+        "fonte": "Res. TJSP 850/2021, art. 18",
+        "t": "pegadinha"
+      },
+      {
+        "id": "esc-oLI-04",
+        "x": "Em caso de cessação do teletrabalho, o(a) servidor(a) terá o prazo de até 5 (cinco) dias {{úteis::corridos ou úteis?}} para retorno ao trabalho presencial",
+        "fonte": "Res. TJSP 850/2021, art. 19, § 1º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oLI-05",
+        "x": "interrompê-lo após o encerramento do vínculo com a unidade em até {{24 (vinte e quatro) horas::24 (vinte e quatro) horas ou 48 (quarenta e oito) horas?}}, sob pena de responsabilidade.",
+        "fonte": "Res. TJSP 963/2025, art. 16, § 1º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oLI-06",
+        "x": "a indisponibilidade for superior a {{60 (sessenta) minutos::30 (trinta) minutos ou 60 (sessenta) minutos?}}, ininterruptos ou não, e ocorrer entre 12h00min e 23h00min",
+        "fonte": "Res. TJSP 963/2025, art. 21, I",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oLI-07",
+        "x": "A identificação do sistema processual correto e a prática do respectivo ato processual competem exclusivamente {{ao peticionante::ao peticionante ou à unidade judicial?}}, sob pena de não produção dos respectivos efeitos jurídicos.",
+        "fonte": "Res. TJSP 963/2025, art. 14",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-oLI-08",
+        "x": "O servidor nomeado para cargo de provimento efetivo ficará sujeito, durante o período de {{36 (trinta e seis) meses::24 (vinte e quatro) meses ou 36 (trinta e seis) meses?}}, a Estágio Probatório",
+        "fonte": "LC 1.111/2010, art. 11",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oLI-09",
+        "x": "A {{Progressão::Progressão ou Promoção?}} é a passagem do servidor de cargo de provimento efetivo de um grau para o imediatamente superior, dentro da mesma referência e nível.",
+        "fonte": "LC 1.111/2010, art. 13",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oLI-10",
+        "x": "O servidor poderá interpor recurso ao Comitê de Recursos Humanos no prazo máximo de 30 (trinta) dias {{corridos::corridos ou úteis?}}, a contar da publicação do resultado do processo da Progressão.",
+        "fonte": "LC 1.111/2010, art. 18",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oLI-11",
+        "x": "O Órgão Especial instalar-se-á com a presença de, no mínimo, {{treze::doze ou treze?}} desembargadores.",
+        "fonte": "RITJSP, art. 11",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oLI-12",
+        "x": "Haverá segundo escrutínio, se nenhum dos candidatos alcançar a {{maioria absoluta::maioria absoluta ou maioria simples?}} dos votos dos integrantes efetivos do Tribunal.",
+        "fonte": "RITJSP, art. 19",
+        "t": "palavra-chave"
+      },
+      {
+        "id": "esc-oLI-13",
+        "x": "Os feitos de competência das Câmaras são julgados por turma de {{três::cinco ou três?}} desembargadores",
+        "fonte": "RITJSP, art. 41",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oLI-14",
+        "x": "Deixará de ser juiz certo no processo o desembargador que vier a afastar-se, a qualquer título, por período superior a {{sessenta dias::sessenta dias ou trinta dias?}}, depois da aposição de visto nos autos ou do pedido de adiamento",
+        "fonte": "RITJSP, art. 109",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oLI-15",
+        "x": "A alteração regimental dependerá do voto de {{dois terços::dois terços ou maioria absoluta?}} dos integrantes do Órgão Especial.",
+        "fonte": "RITJSP, art. 277",
+        "t": "numero"
+      }
+    ]
+  },
+  {
+    "id": "o-NCGJ",
+    "nome": "Lacunas · Normas da Corregedoria (NSCGJ)",
+    "tipo": "o",
+    "cards": [
+      {
+        "id": "esc-oNCGJ-01",
+        "x": "O Juiz Corregedor Permanente efetuará, {{uma vez por ano::duas vezes por ano ou uma vez por ano?}}, de preferência no mês de dezembro, correição ordinária em todas as serventias, repartições e demais estabelecimentos sujeitos à sua fiscalização correcional",
+        "fonte": "NSCGJ, art. 8º",
+        "t": "numero"
+      },
+      {
+        "id": "esc-oNCGJ-02",
+        "x": "Em até {{30 (trinta) dias::30 (trinta) dias ou 60 (sessenta) dias?}} depois de assumir a corregedoria permanente em caráter definitivo, o juiz fará visita correcional às unidades sob sua corregedoria",
+        "fonte": "NSCGJ, art. 9º",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oNCGJ-03",
+        "x": "Os estabelecimentos prisionais e outros destinados ao recolhimento de pessoas, sujeitos à atividade correcional do juízo, serão visitados {{uma vez por mês::uma vez por ano ou uma vez por mês?}}",
+        "fonte": "NSCGJ, art. 13",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oNCGJ-04",
+        "x": "Os escrivães judiciais do serviço de distribuição e dos ofícios de justiça realizarão auditoria {{semanal::mensal ou semanal?}} no sistema, de acordo com os níveis de criticidade definidos",
+        "fonte": "NSCGJ, art. 51",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oNCGJ-05",
+        "x": "As guias de recolhimento de diligências do oficial de justiça serão conservadas pelo prazo mínimo de {{dois anos::cinco anos ou dois anos?}} contados do arquivamento",
+        "fonte": "NSCGJ, art. 79",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oNCGJ-06",
+        "x": "Os mandados, as cartas postais, os ofícios gerais de comunicação, expedidos em cumprimento de ato judicial, em não havendo determinação do juiz em sentido contrário, serão assinados pelos {{escrivães::escrivães ou juízes?}}, declarando que o fazem por ordem do juiz.",
+        "fonte": "NSCGJ, art. 85",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-oNCGJ-07",
+        "x": "Ao receber a petição inicial ou a denúncia, o ofício de justiça providenciará, em {{24 (vinte e quatro) horas::24 (vinte e quatro) horas ou 48 (quarenta e oito) horas?}}, a autuação",
+        "fonte": "NSCGJ, art. 87",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oNCGJ-08",
+        "x": "Deverá ser feita conclusão dos autos no prazo de {{1 (um) dia::1 (um) dia ou 5 (cinco) dias?}} e executados os atos processuais no prazo de 5 (cinco) dias.",
+        "fonte": "NSCGJ, art. 97",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oNCGJ-09",
+        "x": "Nenhum processo permanecerá paralisado em cartório, além dos prazos legais ou fixados, ou ficará sem andamento por mais de {{30 (trinta) dias::30 (trinta) dias ou 60 (sessenta) dias?}}, no aguardo de diligências",
+        "fonte": "NSCGJ, art. 99",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oNCGJ-10",
+        "x": "A expedição de certidões em breve relatório ou de inteiro teor compete {{exclusivamente::exclusivamente ou preferencialmente?}} aos ofícios de justiça.",
+        "fonte": "NSCGJ, art. 104",
+        "t": "competencia"
+      },
+      {
+        "id": "esc-oNCGJ-11",
+        "x": "ressalvado, nos processos findos e que não estejam sujeitos a segredo de justiça, a carga por advogado mesmo sem procuração, pelo prazo de {{10 (dez) dias::5 (cinco) dias ou 10 (dez) dias?}}",
+        "fonte": "NSCGJ, art. 161",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-oNCGJ-12",
+        "x": "A carga rápida dos autos será concedida pelo escrivão ou o escrevente responsável pelo atendimento, pelo período de {{uma hora::duas horas ou uma hora?}}",
+        "fonte": "NSCGJ, art. 165",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oNCGJ-13",
+        "x": "Se intimado pessoalmente, o advogado não devolver os autos no prazo de {{3 (três) dias::3 (três) dias ou 5 (cinco) dias?}}, perderá o direito à vista fora de cartório e incorrerá em multa correspondente à metade do salário mínimo.",
+        "fonte": "NSCGJ, art. 167",
+        "t": "prazo"
+      },
+      {
+        "id": "esc-oNCGJ-14",
+        "x": "É de exclusiva responsabilidade do titular de certificação digital o uso e sigilo da chave privada da sua identidade digital, não sendo oponível, {{em nenhuma hipótese::em nenhuma hipótese ou salvo prova em contrário?}}, alegação de seu uso indevido.",
+        "fonte": "NSCGJ, art. 1.193",
+        "t": "excecao"
+      },
+      {
+        "id": "esc-oNCGJ-15",
+        "x": "será franqueado mediante uso de senha pessoal e intransferível, disponibilizada para utilização pelo período de {{24 (vinte e quatro) horas::24 (vinte e quatro) horas ou 48 (quarenta e oito) horas?}} após a sua emissão.",
+        "fonte": "NSCGJ, art. 1.226-A",
+        "t": "prazo"
+      }
+    ]
+  }
+]

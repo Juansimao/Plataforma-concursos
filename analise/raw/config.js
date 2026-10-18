@@ -1,0 +1,1 @@
+window.PE_CONFIG = {"supabase":{"url":"https://mshxkbeykuafnhllsuwd.supabase.co","anonKey":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im1zaHhrYmV5a3VhZm5obGxzdXdkIiwicm9sZSI6ImFub24iLCJpYXQiOjE3OTEyODI5MjgsImV4cCI6MjEwNjg1ODkyOH0.nejqCV2ZnrrfMG1wIHp2yShZRpn22NXKfSI6NRxTZc0"},"beta":true,"renovarUrl":"","tutorial":"https://youtu.be/XV2ceuYi3-o"};

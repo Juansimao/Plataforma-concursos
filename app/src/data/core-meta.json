@@ -1,0 +1,43 @@
+{
+  "app": "pe2026",
+  "ordem": [
+    "LP", "DC", "DA", "DP", "DPP", "DPC", "NCGJ", "LI", "ATU", "MAT", "INF", "RL"
+  ],
+  "disc": {
+    "LP": { "nome": "Língua Portuguesa", "curto": "Português", "bloco": "I", "q": 16 },
+    "DC": { "nome": "Direito Constitucional", "curto": "Constitucional", "bloco": "II", "q": 0 },
+    "DA": { "nome": "Direito Administrativo", "curto": "Administrativo", "bloco": "II", "q": 0 },
+    "DP": { "nome": "Direito Penal", "curto": "Penal", "bloco": "II", "q": 0 },
+    "DPP": { "nome": "Direito Processual Penal", "curto": "Proc. Penal", "bloco": "II", "q": 0 },
+    "DPC": { "nome": "Direito Processual Civil", "curto": "Proc. Civil", "bloco": "II", "q": 0 },
+    "NCGJ": { "nome": "Normas da Corregedoria (NSCGJ)", "curto": "Normas CGJ", "bloco": "II", "q": 0 },
+    "LI": { "nome": "Legislação Interna do TJSP", "curto": "Legislação Interna", "bloco": "II", "q": 0 },
+    "ATU": { "nome": "Atualidades e Legislação Especial", "curto": "Atualidades", "bloco": "III", "q": 4 },
+    "MAT": { "nome": "Matemática", "curto": "Matemática", "bloco": "III", "q": 4 },
+    "INF": { "nome": "Noções de Informática", "curto": "Informática", "bloco": "III", "q": 9 },
+    "RL": { "nome": "Raciocínio Lógico", "curto": "Rac. Lógico", "bloco": "III", "q": 7 }
+  },
+  "marcos": [
+    { "n": 1, "nome": "O Alicerce" },
+    { "n": 2, "nome": "Avançando no Direito" },
+    { "n": 3, "nome": "Consolidação" },
+    { "n": 4, "nome": "Reta Final de Conteúdo" },
+    { "n": 5, "nome": "Sprint Final" },
+    { "n": 6, "nome": "Revisão Final e Simulados" }
+  ],
+  "temas": [
+    { "id": "T01", "t": "Proposta 01 — Eficiência tecnológica e acolhimento humano no Judiciário", "linhas": 30, "min": 60 },
+    { "id": "T02", "t": "Proposta 02 — Inteligência artificial e os efeitos no mercado de trabalho", "linhas": 30, "min": 60 },
+    { "id": "T03", "t": "Proposta 03 — Saúde mental no ambiente de trabalho", "linhas": 30, "min": 60 },
+    { "id": "T04", "t": "Proposta 04 — O papel do Poder Judiciário na proteção dos direitos fundamentais", "linhas": 30, "min": 60 },
+    { "id": "T05", "t": "Proposta 05 — Desinformação digital e seus impactos na democracia", "linhas": 30, "min": 60 },
+    { "id": "T06", "t": "Proposta 06 — Crise climática e o papel das cidades na adaptação ambiental", "linhas": 30, "min": 60 },
+    { "id": "T07", "t": "Proposta 07 — A violência doméstica e o papel do Estado na proteção das vítimas", "linhas": 30, "min": 60 },
+    { "id": "T08", "t": "Proposta 08 — Sustentabilidade e consumo consciente", "linhas": 30, "min": 60 },
+    { "id": "T09", "t": "Proposta 09 — O acesso à justiça como direito fundamental no Brasil", "linhas": 30, "min": 60 },
+    { "id": "T10", "t": "Proposta 10 — Fake news e os limites da liberdade de expressão", "linhas": 30, "min": 60 },
+    { "id": "T11", "t": "Proposta 11 — Desigualdade social e o papel da educação", "linhas": 30, "min": 60 },
+    { "id": "T12", "t": "Proposta 12 — Segurança pública e direitos fundamentais", "linhas": 30, "min": 60 }
+  ],
+  "nq": 5870
+}

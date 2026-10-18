@@ -1,0 +1,545 @@
+{
+  "perfil": {
+    "nome": "nath",
+    "inicio": "2026-08-17",
+    "badges": {
+      "m1": "2026-10-16",
+      "m10": "2026-10-16",
+      "sim1": "2026-10-16"
+    },
+    "lvl": 3,
+    "xp": 2850
+  },
+  "metas": {
+    "1": {
+      "done": "2026-10-16",
+      "r": {},
+      "ck": {},
+      "n": ""
+    },
+    "2": {
+      "done": "",
+      "r": {},
+      "ck": {},
+      "n": ""
+    },
+    "3": {
+      "done": "",
+      "r": {},
+      "ck": {},
+      "n": ""
+    },
+    "4": {
+      "done": "",
+      "r": {},
+      "ck": {},
+      "n": ""
+    },
+    "5": {
+      "done": "",
+      "r": {},
+      "ck": {},
+      "n": ""
+    },
+    "6": {
+      "done": "",
+      "r": {},
+      "ck": {},
+      "n": ""
+    },
+    "7": {
+      "done": "",
+      "r": {},
+      "ck": {},
+      "n": ""
+    },
+    "9": {
+      "done": "",
+      "r": {},
+      "ck": {},
+      "n": ""
+    },
+    "10": {
+      "done": "",
+      "r": {},
+      "ck": {},
+      "n": ""
+    },
+    "11": {
+      "done": "",
+      "r": {},
+      "ck": {},
+      "n": ""
+    }
+  },
+  "questoes": {
+    "M10-01": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-02": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-03": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-04": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-05": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-06": {
+      "r": "B",
+      "ok": false,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-07": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-08": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-09": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-10": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-11": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-12": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-13": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-14": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-15": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-16": {
+      "r": "A",
+      "ok": false,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-17": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-18": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-19": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-20": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-21": {
+      "r": "A",
+      "ok": false,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-22": {
+      "r": "B",
+      "ok": false,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-23": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-24": {
+      "r": "B",
+      "ok": false,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-25": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-26": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-27": {
+      "r": "B",
+      "ok": false,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-28": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-29": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M10-30": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-17",
+      "s": "INF",
+      "n": 1
+    },
+    "M70-01": {
+      "r": "B",
+      "ok": false,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-02": {
+      "r": "A",
+      "ok": false,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-03": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-04": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-05": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-06": {
+      "r": "B",
+      "ok": false,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-07": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-08": {
+      "r": "A",
+      "ok": false,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-09": {
+      "r": "A",
+      "ok": true,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-10": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-11": {
+      "r": "B",
+      "ok": false,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-12": {
+      "r": "B",
+      "ok": true,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-13": {
+      "r": "X",
+      "ok": false,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-14": {
+      "r": "B",
+      "ok": false,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-15": {
+      "r": "B",
+      "ok": false,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    },
+    "M70-16": {
+      "r": "A",
+      "ok": false,
+      "d": "2026-10-16",
+      "s": "DPP",
+      "n": 1
+    }
+  },
+  "tec": [
+    {
+      "id": "mvb4egkpif1e2",
+      "d": "2026-10-16",
+      "c": 1,
+      "s": "LP",
+      "q": 28,
+      "a": 20,
+      "min": 0,
+      "src": "Qconcursos",
+      "obs": ""
+    },
+    {
+      "id": "mvb4onbh0danv",
+      "d": "2026-06-11",
+      "c": 1,
+      "s": "LP",
+      "q": 28,
+      "a": 20,
+      "min": 0,
+      "src": "Qconcursos",
+      "obs": ""
+    },
+    {
+      "id": "mvbc1t191kikj",
+      "d": "2026-08-18",
+      "c": 5,
+      "s": "LP",
+      "q": 64,
+      "a": 49,
+      "min": 0,
+      "src": "Qconcursos",
+      "obs": ""
+    }
+  ],
+  "sessoes": [
+    {
+      "id": "s1",
+      "d": "2026-10-16",
+      "c": 1,
+      "min": 45
+    },
+    {
+      "id": "s2",
+      "d": "2026-10-17",
+      "c": 10,
+      "min": 60
+    }
+  ],
+  "simulados": [
+    {
+      "id": "mvbc4cdsflpt4",
+      "d": "2026-10-16",
+      "nome": "Simulado geral (70 questões)",
+      "total": 70,
+      "c": 41,
+      "e": 29,
+      "b": 0,
+      "red": 31,
+      "obs": ""
+    }
+  ],
+  "redacao": [
+    {
+      "id": "r1",
+      "d": "2026-10-16",
+      "tema": "T01",
+      "linhas": 28,
+      "nota": 31,
+      "min": 55,
+      "txt": ""
+    }
+  ],
+  "leis": {
+    "lida": {},
+    "duv": {},
+    "nt": {
+      "cpp:#h5uuh9": {
+        "d": "2026-10-16",
+        "t": "Impugnável = pode recorrer (no contexto da questão).\nCONSOANTE COM CONSOANTE R E P",
+        "x": "IV – que pronunciar o réu; (Redação dada pela Lei nº 11.689, de 2008)"
+      },
+      "cpp:#lv6jr4": {
+        "d": "2026-10-16",
+        "t": "subirão nos próprios autos os recursos nos casos do art. 581,\n\nI - que não receber a denúncia ou a queixa;\nIII - que julgar procedentes as exceções, salvo a de suspeição;\nIV – que pronunciar o réu; (Redação dada pela Lei nº 11.689, de 2008)\nVIII - que decretar a prescrição ou julgar, por outro modo, extinta a punibilidade;\nX - que conceder ou negar a ordem de habeas corpus;",
+        "x": "II - nos casos do art. 581, I, III, IV, VI, VIII e X;"
+      },
+      "cpp:#15v3vct": {
+        "d": "2026-10-16",
+        "t": "Réu não saber assinar? Assina alguém de confiança + 2 testemunhas",
+        "x": "§ 1º Não sabendo ou não podendo o réu assinar o nome, o termo será assinado por alguém, a seu rogo, na presença de duas testemunhas."
+      }
+    },
+    "pos": {
+      "cpp": "L507"
+    }
+  },
+  "docs": {
+    "lido": {
+      "orientacoes:0": "2026-10-16",
+      "guia-revisoes:0": "2026-10-16"
+    },
+    "pos": {
+      "m1": "m1-h1",
+      "m10": "m10-h1",
+      "m31": "m31-h1",
+      "guia-revisoes": "guia-revisoes-h2"
+    }
+  },
+  "erros": {
+    "dom": {}
+  },
+  "avisosOk": [
+    1
+  ],
+  "prefs": {
+    "tema": "auto",
+    "fz": 1,
+    "rev": [
+      1,
+      7,
+      30
+    ],
+    "horas": 3,
+    "metasSem": 5,
+    "verde": 80,
+    "amarelo": 65,
+    "alvo": "Escrevente Técnico Judiciário - TJSP",
+    "nick": "nath",
+    "rank": true
+  },
+  "ui": {
+    "planMode": "marco",
+    "planDisc": "",
+    "planSt": "todas",
+    "rankTab": "xp"
+  },
+  "timer": {
+    "run": false,
+    "start": 0,
+    "meta": null
+  },
+  "user": {
+    "email": "nath@exemplo.com",
+    "nome": "nath"
+  }
+}
